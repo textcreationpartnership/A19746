@@ -1,0 +1,1480 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hedgerovv of busshes, brambles, and briers: or, A fielde full of tares, thistles and tine of the vanities and vaine delightes of this worlde, leading the way to eternall damnation: with seuerall exhortations or cauiats for the carelesse to shun and beware the same. Now newly compiled by I.D.</title>
+            <title>Bible. English. Selections.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1598</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19746</idno>
+            <idno type="STC">STC 6170</idno>
+            <idno type="STC">ESTC S109189</idno>
+            <idno type="EEBO-CITATION">99844838</idno>
+            <idno type="PROQUEST">99844838</idno>
+            <idno type="VID">9684</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 9684)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 493:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hedgerovv of busshes, brambles, and briers: or, A fielde full of tares, thistles and tine of the vanities and vaine delightes of this worlde, leading the way to eternall damnation: with seuerall exhortations or cauiats for the carelesse to shun and beware the same. Now newly compiled by I.D.</title>
+                  <title>Bible. English. Selections.</title>
+                  <author>I. D.</author>
+               </titleStmt>
+               <extent>[88] p.   </extent>
+               <publicationStmt>
+                  <publisher>By William White for Iohn Browne, and are to be solde at his shop in Fleete-streete at the signe of the Shugerloafe,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1598.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A collection of Biblical quotations.</note>
+                  <note>Signatures: A-L⁴.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Quotations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:9684:1"/>
+            <pb facs="tcp:9684:1"/>
+            <p>A Hedgerovv of Buſshes, Brambles, and Briers: or, A Fielde full of <hi>Tares, Thiſtles and Tine:</hi> Of the vanities and vaine delightes of this Worlde, leading the way to eternall damnation: with ſeuerall Exhor<g ref="char:EOLhyphen"/>tations or oauiats for the care<g ref="char:EOLhyphen"/>leſſe to ſhun and beware the ſame. Now newly compiled by <hi>I.D.</hi>
+            </p>
+            <q>
+               <p>The workes of the fleſh are manifeſt, which are adulterie, fornication, vncleannes, wantonnes, Idolatrie, witchcraft, hatred, debate, emulations, wrath, contentions, ſeditions, hereſies, enuie, murthers, drunkennes, gluttonie, and ſuch like: whereof I tell you before, as I alſo haue tolde you before, that they which do ſuch thinges, ſhall not inhe<g ref="char:EOLhyphen"/>rite the kingdome of God.</p>
+               <bibl>Gall. 5.</bibl>
+            </q>
+            <p>Imprinted at London by <hi>William White</hi> for <hi>Iohn Browne, and are to be ſolde at his ſhop in Fleete</hi>-ſtreete at the ſigne of the Shugerloafe. 1598.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:9684:2"/>
+            <pb facs="tcp:9684:2"/>
+            <head>To the gentle and friendly Reader.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Here are in forraine countries (gentle Reader) certayne men called by the name of Quack<g ref="char:EOLhyphen"/>ſaluers, who vſe in Fayres, Markettes, and open places, to ſhew foorth in deſiphered cul<g ref="char:EOLhyphen"/>lors many infirmities, griefes, and diſeaſes, which doe afflict and reigne in mans body: and withall they lay open in viwe of the people diuers waters, powders, and drugges of diuers ſortes, as remedies for the ſame: And alſo there they doe tell and expound vnto the beholders, aſwell the nature and qualities of the ſame diſeaſes, as the vertue, force, and efficacie, of the ſame Drugges, to the intent the hearers and beholders may take knowledge, and receiue benefite thereby. The which enſample (gentle Reader) being (in my ſimple opinion) very good and chriſtian like, I haue immitated, by lay<g ref="char:EOLhyphen"/>ing open before our eyes in this ſmall Booke folowing, (according to my ſmall skill and knowledge) the Va<g ref="char:EOLhyphen"/>nities and vayne delightes of this Worlde, and haue named it (as me thinkes moſt fit) A Hedgerowe of Buſhes, Brambles, and Briers: or a Fielde full of Tares,
+<pb facs="tcp:9684:3"/>
+Thiſtles, and Tine; of the Vanities and vayne de<g ref="char:EOLhyphen"/>lightes of this Worlde, leading the way to eternall damnation, with ſeuerall exhortations or cauiats for the careles to ſhunne and beware the ſame: That as I haue reduced another Booke into a ſmaller volume, called <hi>Paterickes Places,</hi> a Treatiſe concerning the doctrine of Fayth, and the doctrine of the Law; which is the onely marke to ſhoote at, and the onely meanes to obtaine ſaluation: So by reading and vnderſtan<g ref="char:EOLhyphen"/>ding of both, we might thereby learne to chooſe the right and good way, and to ſhunne and flie the wrong and busſhie bad way: as for a familiar example. If two men were ſet in a playne to runne a race for a great prize, and it were decreed that he which came firſt to the ende of the race, ſhould haue the prize for his rewarde: The one ſteppeth aſide out of the way amongst Busſhes and Briers, ſeeking after Butterflies, whereby he looſeth the prize; the beholders would not onely thinke him a vayne man, but would alſo deride and laugh him to ſcorne for his vanitie &amp; fooliſhnes: Euen ſo (gentle Reader) wee hauing two wayes layde before our eyes, one leading to damnation, and the other to ſaluation; it were a great follie, or rather mad<g ref="char:EOLhyphen"/>neſſe, for vs to leaue the right way, and to take the wrong: Therefore it behooueth vs to be warie and carefull, that we chouſe the right way; for it is de<g ref="char:EOLhyphen"/>ſcribed vnto vs by our Sauiour Chriſt, to be verie <hi>narrow &amp; ſtraight,</hi>
+               <note place="margin">Math. 7.</note> 
+               <hi>and few there be that finde it.</hi> And let vs examine our ſelues, that yf we be intang<g ref="char:EOLhyphen"/>led in any Brier of this Hedgerow, we ſtriue to get out in time, leaſt being caught by one Brier, and careleſſe
+<pb facs="tcp:9684:3"/>
+to get looſe, an other alſo layeth holde; and ſo by de<g ref="char:EOLhyphen"/>grees we be faſtened and ouerwhelmed in the Hedge, as when we would get looſe we can not,<note place="margin">Math. 25.</note> 
+               <hi>and the night come vpon vs at vnwares,</hi> whereby we be taken tardie, as the <hi>fooliſh Virgins,</hi>
+               <note place="margin">Reue. 12.</note> 
+               <hi>and our aduerſarie or accuſer, bring vs before the Iudge, placing vs amongſt thoſe careles liuers, after the luſtes of the fleſh, and workers of iniquitie, on the left hand;</hi>
+               <note place="margin">Luk. 13.</note> 
+               <hi>and the Iudge pronounce that heauie ſentence,</hi>
+               <note place="margin">Math. 25.</note> 
+               <hi>Depart from me ye curſed, into euerlaſting fire, prepared for the Deuill and his Angels:</hi> But rather let vs thinke vpon, or take example by the ſeely Sheepe, feeding by the Hedge, or in the Fieldes; ſo ſoone as he findeth him ſelfe caught by the Brier, he foorthwith turneth and windeth himſelfe about to get looſe a<g ref="char:EOLhyphen"/>gaine, and deferreth not the time, but will ſo ſtruggle and ſtriue, that in the ende he will get looſe, albeit he leaue ſome of his Wooll behinde him. And Sainct <hi>Paul</hi> teacheth vs to <hi>caſt off the olde man,</hi>
+               <note place="margin">Epheſ. 4.</note> 
+               <hi>which is corrupt through the deceiueable luſtes:</hi>
+               <note place="margin">Epheſ. 5.</note> 
+               <hi>and put on the new man, which after God is created in righteouſneſſe and true holineſſe:</hi>
+               <note place="margin">Tit. 2.</note> And willeth him <hi>that hath ſtollen, to ſtoale no more, hauing no fel<g ref="char:EOLhyphen"/>lowſhip with the workes of darkneſſe: but deny vngodlines and worldly luſtes:</hi> And that we ſhould <hi>liue ſoberly and righteouſly and godly in this pre<g ref="char:EOLhyphen"/>ſent worlde, walking in the ſpirit,</hi>
+               <note place="margin">Gal. 5.</note> 
+               <hi>and doing and performing the fruites of the ſpirit: which is loue, ioy, peace, long ſuffering, gentlenes, goodnes, fayth, meekenes, temperancie, agaynſt ſuch there is no law: for they that are Chriſtes, haue cruci<g ref="char:EOLhyphen"/>fied
+<pb facs="tcp:9684:4"/>
+the fleſh, with the affections and the luſtes. If we liue in the ſpirit, let vs alſo walke in the ſpirit,</hi> that we may be ſet amongst the number of thoſe on the right hand, and the Iudge will ſay vnto vs,<note place="margin">Math. 25. 1. Iohn. 2.</note> 
+               <hi>Come ye bleſſed of my father, inherite the kingdome prepared for you from the foundation of the worlde:</hi> For thoſe that walke in the ſpirit, loue God, and are good and righteous, and doe thoſe thinges that pleaſe him: therefore ſuch muſt not doubt, but that God will alſo giue them the crowne of righteouſnes: To which we pray him, he will graunt vs. Amen.</p>
+            <closer>
+               <signed>Your welwiller in the Lord, and moſt vnworthy. <hi>I.D.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:9684:4"/>
+            <head>The Contentes of this Booke.</head>
+            <list>
+               <item>1 Of the Worlde, and the Prince thereof, our accuſer, aduerſarie, and enemie.</item>
+               <item>2 Of Sinne and Sinners.</item>
+               <item>3 Of Images and Idolles.</item>
+               <item>4 Of Antichriſt and falſe Chriſtes.</item>
+               <item>5 Of falſe Prophettes, falſe Doctrine, and Tea<g ref="char:EOLhyphen"/>chers.</item>
+               <item>6 Of worldly Wiſedome.</item>
+               <item>7 Of Riches and Rich-men.</item>
+               <item>8 Of Pride and Proude-men.</item>
+               <item>9 Of Whoredome and Whoremongers.</item>
+               <item>10 Of Drunkardes and Gluttons.</item>
+               <item>11 Of Couetouſneſſe.</item>
+               <item>12 Of Vſurie and Vſurers.</item>
+               <item>13 Of falſe Weightes and Meaſures.</item>
+               <item>14 Of Swearing.</item>
+               <item>15 Of Lying.</item>
+               <item>16 Of Backbiters and Talebearers.</item>
+               <item>17 Of Scorning and mocking.</item>
+               <item>18 Of Anger and Wrath.</item>
+               <item>19 Of Enuie, Hatred, and Strife.</item>
+               <item>
+                  <pb facs="tcp:9684:5"/>20 Of Slouth and Idlenes.</item>
+               <item>21 Of the Tongue and euyll ſpeaking.</item>
+               <item>22 Of feigned Friendes and friendſhyp.</item>
+               <item>23 Of Witches and Sorcerers.</item>
+               <item>24 Of Fooles.</item>
+               <item>25 Of Wicked and euyll Men.</item>
+               <item>26 Of hard, ſtonie, and ſtubborne Hartes.</item>
+               <item>27 Of the workes of Darkneſſe, and workes of the Fleſh.</item>
+               <item>28 A godly Prayer and confesſion of our ſinnes vnto God.</item>
+            </list>
+            <trailer>The ende of the Table.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:9684:5"/>
+            <div type="part">
+               <head>OF THE WORLDE, AND THE PRINCE THERE<g ref="char:EOLhyphen"/>OF, OVR ACCVSER, AD<g ref="char:EOLhyphen"/>VERSARIE, AND ENEMIE.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>E ſober, and watch:<note place="margin">1. Pet. 5.8.</note> for your ad<g ref="char:EOLhyphen"/>uerſarie the Deuill as a roaring Li<g ref="char:EOLhyphen"/>on walketh about, ſeeking whom he may deuoure.</p>
+               <p>We wreſtle not agaynſt fleſh and blood,<note place="margin">Epheſ. 6.12.</note> but agaynſt principali<g ref="char:EOLhyphen"/>ties, agaynſt powers, and agaynſt the worldly go<g ref="char:EOLhyphen"/>uernours, the princes of the darknes of this world, agaynſt ſpirituall wickedneſſes, which are in the high places.</p>
+               <p>In time paſt ye walked,<note place="margin">Epheſ. 2.2, 3.</note> according to the courſe of this worlde, and after the Prince that ruleth in the ayre: euen the ſpirit that now worketh in the children of diſobedience:</p>
+               <p>Among whom wee alſo had our conuerſation in time paſt, in the luſt of our fleſh, in fulfilling the will of the fleſh, and of the minde: and were by na<g ref="char:EOLhyphen"/>ture, the children of wrath, aſwell as others.</p>
+               <p>In whom the God of this worlde hath blinded the mindes (that is) of the Infidels,<note place="margin">2. Cor. 4.4.</note> that the light of the glorious Goſpel of Chriſt, which is the image of God, ſhould not ſhine vpon them.</p>
+               <p>
+                  <pb facs="tcp:9684:6"/>
+                  <note place="margin">Iohn. 12, 31.</note>Now is the iudgement of this worlde: Now ſhall the Prince of this worlde be caſt out.</p>
+               <p>
+                  <note place="margin">Collo. 2, 15.</note>And hath ſpoyled the Principalities, and powers, and hath made a ſhew of them openly, and hath tri<g ref="char:EOLhyphen"/>umphed ouer them in the ſame Croſſe.</p>
+               <p>
+                  <note place="margin">Luk. 22, 31.</note>And the Lord ſayd, <hi>Symon, Symon,</hi> Beholde, Sa<g ref="char:EOLhyphen"/>tan hath deſired to winow you, as wheate.</p>
+               <p>
+                  <note place="margin">Reue. 12.10.</note>I heard a loude voyce, ſaying, Now is ſaluation in heauen, and ſtrength, and the kingdome of our God, and the power of his Chriſt: For the accuſer of his brethren is caſt downe, which accuſed them before our God day and nyght.</p>
+               <p>
+                  <note place="margin">1. Iohn. 2, 16.</note>All that is in the worlde (as the luſtes of the fleſh, the luſtes of the eyes, and the pride of lyfe) is not of the Father, but is of the worlde.</p>
+               <p>
+                  <note place="margin">Eccle. 1, 1.</note>Vanitie of vanities, ſayth the <hi>Preacher:</hi> Vanitie of vanities, all is vanitie.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">1. Iohn. 2, 15, 17.</note>LOue not the worlde, neither the thinges that are in the worlde. If any man loue the worlde, the loue of the Father is not in him.</p>
+               <p>The worlde paſſeth away, and the luſtes thereof: but he that fulfilleth the will of God, abideth for euer.</p>
+               <p>
+                  <note place="margin">1. Corin. 7, 31</note>And they that vſe this worlde, as though they vſed it not: for the fasſhion of this worlde goeth away.</p>
+               <p>
+                  <note place="margin">Iam. 4, 4.</note>Yee adulterers, and adultereſſes, know ye not that the amitie of the worlde, is the enimitie of God? Whoſo<g ref="char:EOLhyphen"/>euer therefore wilbe a friende of the worlde, maketh him ſelfe the enemie of God.</p>
+               <p>
+                  <pb facs="tcp:9684:6"/>If ye were of the worlde, the worlde would loue his owne:<note place="margin">Iohn. 15, 19.</note> But becauſe ye are not of the worlde, but I haue cho<g ref="char:EOLhyphen"/>ſen you out of the worlde, therfore the worlde hateth you.</p>
+               <p>They are not of the worlde, as I am not of the worlde.<note place="margin">Iohn. 17, 16.</note>
+               </p>
+               <p>I pray not for the worlde,<note place="margin">Iohn. 17, 9.</note> but for them which thou haſt giuen mee: for they are thine.</p>
+               <p>And faſhion not your ſelues like vnto this worlde,<note place="margin">Rom. 12, 2.</note> but be ye changed by the renewing of your minde, that ye may proue what is the good will of God, and accep<g ref="char:EOLhyphen"/>table, and perfect.</p>
+            </div>
+            <div type="part">
+               <head>OF SINNE AND SINNERS.</head>
+               <p>BY one man Sinne entred into the worlde,<note place="margin">Rom. 5, 12, 13.</note> and death by Sinne, and ſo death went ouer all men, foraſmuch as all men haue ſinned: For vnto the time of the Law was Sinne in the worde; but Sinne is not imputed while there is no Law.</p>
+               <p>By the workes of the Law ſhall no fleſh be iuſti<g ref="char:EOLhyphen"/>fied in his ſight:<note place="margin">Rom. 3, 20.</note> For by the Law commeth the knowledge of Sinne.</p>
+               <p>What ſhall we ſay then? Is the Law Sinne?<note place="margin">Rom. 7, 7, 12, 13.</note> God forbid. Nay, I knew not Sinne, but by the Law: for I had not knowen luſt, except the Law had ſayd, Thou ſhalt not luſt.</p>
+               <p>Wherefore the Law is holy, and the Comman<g ref="char:EOLhyphen"/>dement is holy, and iuſt, and good.</p>
+               <p>Was then that which is good, made death in me? God forbid: But ſinne, that it might appeare ſinne, wrought death in me by that which is good, that
+<pb facs="tcp:9684:7"/>
+ſinne might be out of meaſure ſinfull by the com<g ref="char:EOLhyphen"/>mandement.</p>
+               <p>
+                  <note place="margin">Rom. 5, 23.</note>But I ſee an other law in my members, rebelling againſt the law of my minde, and leading me cap<g ref="char:EOLhyphen"/>tiue vnto the law of ſinne, which is in my members.</p>
+               <p>
+                  <note place="margin">1. Iohn. 3, 8.</note>He that committeth ſinne is of the Deuill: for the Deuill ſinneth from the beginning: for this pur<g ref="char:EOLhyphen"/>poſe appeared the Sonne of God, that he might looſe the workes of the Deuill.</p>
+               <p>
+                  <note place="margin">Iohn. 8, 34.</note>Verely, verely I ſay vnto you, that whoſoeuer committeth ſinne, is the ſeruant of ſinne.</p>
+               <p>
+                  <note place="margin">Wiſd. 10, 13.</note>Becauſe of the fooliſh deuices of their wickednes wherewith they were deceaued, and worſhypped Serpents, that had not the vſe of reaſon, and vile beaſtes, thou ſendedſt a multitude of vnreaſonable beaſtes vpon them for a vengeance, that they might know, that wherewith a man ſinneth, by the ſame alſo ſhall he be puniſhed.</p>
+               <p>
+                  <note place="margin">Rom. 6, 20. 2. Pet. 2.19.</note>When ye were the ſeruantes of ſinne, ye were freed from righteouſnes.</p>
+               <p>
+                  <note place="margin">1. Kin. 8, 46. 2. Chro. 6, 36</note>If they ſinne agaynſt thee (for there is no man that ſinneth not) and thou be angry with them, and deliuer them to the enemies, ſo that they carry them away priſoners vnto the land of the enemies, eyther farre or neare.</p>
+               <p>
+                  <note place="margin">Eccle. 25, 26. Gen. 3, 6.</note>Of the woman came the beginning of ſinne, and through her we die all.</p>
+               <p>
+                  <note place="margin">2. Eſd. 15, 24</note>Woe be to them that ſinne, and keepe not my commandementes, ſayth the Lord.</p>
+               <p>
+                  <note place="margin">Pro. 14, 21.</note>The ſinner diſpiſeth his neighbour: but he that hath mercie on the poore, is bleſſed.</p>
+               <p>
+                  <pb facs="tcp:9684:7"/>Who can ſay, I haue made mine hart cleane,<note place="margin">Pro. 20, 9.</note> I am cleane from ſinne?</p>
+               <p>Surely there is no man iuſt in the earth,<note place="margin">Eccle. 7, 22.</note> that doth good, and ſinneth not.</p>
+               <p>The way of ſinners is made playne with ſtones:<note place="margin">Eccle. 21, 10.</note> but at the ende thereof is hell, darknes, and paynes.</p>
+               <p>If we ſay that we haue no ſinne,<note place="margin">1. Ioh. 1, 8, 10</note> we deceaue our ſelues, and trueth is not in vs.</p>
+               <p>If we ſay we haue not ſinned, we make him a lyar, and his worde is not in vs.</p>
+               <p>But the Scripture hath concluded all vnder ſinne,<note place="margin">Galla. 3, 22.</note> that the Promiſe by the Fayth of Ieſus Chriſt, ſhould be geuen to them that beleeue.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>HE ſayd vnto them, The whole neede not a Phiſition,<note place="margin">Math. 9, 12, 13.</note> but they that are ſicke.</p>
+               <p>But goe ye and learne what this is, I will haue mercie, and not Sacrifice: For I am not come to call the righteous, but the ſinners to repentance.</p>
+               <p>The Lord is ſlow to anger, and of great mercie,<note place="margin">Nom. 14, 18 Pſal. 103, 3.</note> and for<g ref="char:EOLhyphen"/>giuing iniquitie, and ſinne: but not making the wic<g ref="char:EOLhyphen"/>ked innocent, and viſiting the wickednes of the fa<g ref="char:EOLhyphen"/>thers vpon the children, in the thirde and fourth generation.</p>
+               <p>Say vnto them, As I liue, ſaith the Lord,<note place="margin">Ezec. 33, 11.</note> I deſire not the death of the wicked, but that the wicked turne from his way, and liue: Turne you, turne you from your euyl wayes, for why will ye die, O ye houſe of Iſrael.</p>
+               <p>
+                  <pb facs="tcp:9684:8"/>
+                  <note place="margin">Pſal. 32, 1.</note>Bleſſed is he whoſe wickednes is forgeuen, and whoſe ſinne is couered.</p>
+               <p>
+                  <note place="margin">1. Tim. 1, 15.</note>This is a true ſaying, and by all meanes worthy to be re<g ref="char:EOLhyphen"/>ceaued, That Chriſt Ieſus came into the worlde to ſaue ſinners, of whom I am chiefe.</p>
+               <p>
+                  <note place="margin">Mar. 2, 17.</note>He ſayd vnto them, the whole haue no neede of the Phi<g ref="char:EOLhyphen"/>ſition, but the ſicke. I came not to call the righteous, but the ſinners to repentance.</p>
+               <p>
+                  <note place="margin">Exod. 34, 7.</note>Reſeruing mercie for thouſandes, forgiuing iniquitie, and tranſgreſsion, and ſinne, and not making the wicked innocent, viſiting the iniquitie of the fathers vpon the children, and vpon the childrens children vnto the thirde and fourth generation.</p>
+               <p>
+                  <note place="margin">1. Pet. 4, 1.</note>Foraſmuch then as Chriſt hath ſuffered for vs in the fleſh, arme your ſelues likewiſe with the ſame minde, (which is) that he which hath ſuffered in the fleſh, hath ceaſſed from ſinne.</p>
+               <p>
+                  <note place="margin">1. Cor 6, 11. Eph. 2, 12, 13 Titus. 3, 3.</note>And ſuch were ſome of you: but ye are waſhed, but ye are ſanctified, but ye are iuſtefied in the name of the Lord Ieſus, and by the ſpirit of our God.</p>
+               <p>
+                  <note place="margin">1. Pet. 1, 15, 16.</note>As he which hath called you is holy, ſo be ye holy in all maner of conuerſation.</p>
+               <p>Becauſe it is written, Be ye holy, for I am holy.</p>
+               <p>
+                  <note place="margin">Act. 3, 19.</note>Amende your lyues therefore and turne, that your Sinnes may be put away, when the time of refreſhing ſhall come from the preſence of the Lord.</p>
+               <p>
+                  <note place="margin">Ro<g ref="char:cmbAbbrStroke">̄</g>. 6, 22.23.</note>But now being freed from Sinne, and made ſeruantes vnto God, ye haue your fruite in holynes, and the ende euerlaſting life.</p>
+               <p>For the wages of Sinne is death: but the gyft of God is eternall lyfe, through Ieſus Chriſt our Lord.</p>
+               <p>
+                  <pb facs="tcp:9684:8"/>If we acknowledge our ſinnes,<note place="margin">1. Iohn. 1, 9.</note> he is faythfull and iuſt to forgiue vs our Sinnes, and to clenſe vs from all vnrighteouſneſſe.</p>
+               <p>Speake vnto all the congregation of the children of Iſ<g ref="char:EOLhyphen"/>rael, and ſay vnto them, Ye ſhalbe holy,<note place="margin">Leuit. 19, 2. &amp; 20, 7. Luk. 1, 75. Deut. 10, 17 Rom. 2, 11. Galla. 2, 6.</note> for I the Lord your God am holy.</p>
+            </div>
+            <div type="part">
+               <head>OF IMAGES AND IDOLS.</head>
+               <p>YE ſhall ſee in Babylon Gods of Siluer,<note place="margin">Bar. 6, 3, 13, 14, 18, 21, 22</note> and Gods of Wood, borne vpon mens ſhoulders, to cauſe the people to feare.</p>
+               <p>One holdeth a Scepter, as though he were a cer<g ref="char:EOLhyphen"/>taine Iudge of the Countrey, yet can he not ſlay ſuch as offende him.</p>
+               <p>Another hath a Dagger or an Axe in his right hand, yet he is not able to defende him ſelfe from battayle, nor from theeues: So then it is euident that they be no Gods.</p>
+               <p>They lyght vp Candles before them, yea more then for them ſelues, whereof they cannot ſee one: for they are but as one of the poſtes of the Temple.</p>
+               <p>The Owles, Swallowes, and Birdes, flye vpon their bodyes, and vpon their heades; yea, and the Cattes alſo.</p>
+               <p>By this ye may be ſure, that they are not Gods: Therefore feare them not.</p>
+               <p>All they that make an Image are vanitie,<note place="margin">Eſa. 44, 9.</note> and their delectable thinges ſhall nothing profite: and they are their owne witneſſes, that they ſee not nor know: therefore they ſhall be confounded.</p>
+               <p>
+                  <pb facs="tcp:9684:9"/>
+                  <note place="margin">Eſa. 46, 7.</note>They beare it vpon the ſhoulders: they cary him and ſet him in his place: ſo doth he ſtande, and can not remooue from his place. Though one cry vnto him, yet can he not anſwere, nor deliuer him out of his tribulation.</p>
+               <p>
+                  <note place="margin">Pſal. 115, 4, 5, 6, 7, 8.</note>Their Idols are ſiluer and golde: euen the worke of mens handes.</p>
+               <p>They haue a mouth and ſpeake not: they haue eyes and ſee not.</p>
+               <p>They haue eares and heare not: they haue noſes and ſmell not.</p>
+               <p>They haue handes and touch not: they haue feete and walke not: neither make they any ſounde with their throate.</p>
+               <p>They that make them are like vnto them: ſo are all that truſt in them.</p>
+               <p>
+                  <note place="margin">Pſal. 16, 4.</note>The ſorowes of them, that offer to an other God, ſhalbe multiplyed: their offerings of blood will I not offer, neither make mention of their names with my lyppes.</p>
+               <p>
+                  <note place="margin">Ier. 10, 5.</note>The Idoles ſtand vp as the palme tree, but ſpeake not: they are borne, becauſe they can not goe: feare them not, for they cannot do euyll, neither can they do good.</p>
+               <p>
+                  <note place="margin">Wiſd. 13, 10.</note>Miſerable are they, and among the dead is there hope, that call them Gods, which are the workes of mens handes, golde and ſiluer, and the thing that is inuented by art, and the ſimilitude of beaſtes, or any vayne ſtone that hath been made by the hande of antiquitie.</p>
+               <p>
+                  <note place="margin">Leuit. 26, 1.</note>Ye ſhall make you none Idols nor grauen Ima<g ref="char:EOLhyphen"/>ges,
+<pb facs="tcp:9684:9"/>
+neither reare you vp any Pillar, neither ſhall ye ſet any Image of Stone in your land, to bowe downe to it: for I am the Lord your God.</p>
+               <p>Ye ſhall take heede to all thinges that I haue ſaid vnto you,<note place="margin">Exod. 23, 13.</note> and ye ſhall make no mention of the name of other Gods, neither ſhall it be heard out of thy mouth.</p>
+               <p>Neither company with theſe nations: that is,<note place="margin">Ioſh. 23, 7.</note> with them which are left with you, neither make mention of the name of their Gods, nor cauſe to ſweare by them, neither ſerue them, nor bow vn<g ref="char:EOLhyphen"/>to them.</p>
+               <p>The reſidue thereof he maketh a God,<note place="margin">Eſa. 44, 17.</note> euen his Idoll; he boweth vnto it, and worſhypeth &amp; pray<g ref="char:EOLhyphen"/>eth vnto it, and ſayth, Deliuer me, for thou art my God.</p>
+               <p>For mine owne ſake, for mine owne ſake,<note place="margin">Eſa. 48, 11, 12, 13.</note> will I doe it: For how ſhould my name be polluted? Surely I will not giue my glory to another.</p>
+               <p>Heare me O Iacob, and Iſrael my called: I am, I am, the firſt, and I am, the laſt.</p>
+               <p>Surely mine hand hath layde the foundation of the earth, and my right hand hath ſpanned the heauens: when I cal them, they ſtand vp together.</p>
+               <p>Curſed be the man that ſhall make any carued or molten Image,<note place="margin">Deut. 27, 15.</note> which is an abhomination to the Lord, the worke of the handes of the Craftsman, and putteth it in a ſecret place: And all the people ſhall anſwere and ſay, So be it.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:10"/>
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">2. Cor. 6, 14, 15.</note>BE not vnequally yoked with the Infidels: For what fellowſhyp hath righteouſnes with vnrighteouſnes? and what communion hath light with darknes?</p>
+               <p>And what concorde hath Chriſt with Belial? or what part hath the beleeuer with the Infidell?</p>
+               <p>
+                  <note place="margin">1. Iohn. 5, 21.</note>Babes, keepe your ſelues from Idols. Amen.</p>
+               <p>
+                  <note place="margin">1. Cor. 8, 4, 5, 6.</note>Concerning therefore meate ſacrificed vnto Idols, we know that an Idoll is nothing in the worlde, and that there is none other God but one.</p>
+               <p>For though there be that are called Gods, whether in heauen or in earth (as there be many Gods, and many Lordes)</p>
+               <p>Yet vnto vs there is but one God, which is the Father, of whom are all thinges, and we in him: and one Lord Ieſus Chriſt, by whom are all thinges, and we by him.</p>
+               <p>
+                  <note place="margin">1. Cor 10, 14.</note>Wherefore my brethren, flee from Idolatrie.</p>
+               <p>
+                  <note place="margin">Iohn. 13, 13.</note>Ye call mee Maiſter, and Lord, and ye ſay well: for ſo am I.</p>
+               <p>
+                  <note place="margin">1. Iohn. 4, 12.</note>No man hath ſeene God at any time. If we loue one another, God dwelleth in vs, and his loue is perfect in vs.</p>
+               <p>
+                  <note place="margin">Iohn. 1, 18.</note>No man hath ſeene God at any time: the onely begot<g ref="char:EOLhyphen"/>ten Sonne, which is in the boſome of the Father, he hath declared him.</p>
+               <p>
+                  <note place="margin">1. Cor. 12, 3.</note>I declare vnto you, that no man ſpeaking by the ſpirit of God, calleth Ieſus execrable: Alſo, no man can ſay that Ieſus is the Lorde, but by the holy Ghoſt.</p>
+               <p>
+                  <pb facs="tcp:9684:10"/>The houre commeth, &amp; now is,<note place="margin">Iohn. 4, 23, 24.</note> when the true worſhip<g ref="char:EOLhyphen"/>pers ſhall worſhip the Father in ſpirit and trueth: for the Father requireth euen ſuch to worſhip him.</p>
+               <p>God is a ſpirit, and they that worſhip him, muſt wor<g ref="char:EOLhyphen"/>ſhip him in ſpirit and trueth.</p>
+               <p>And that euery tongue ſhould confeſſe,<note place="margin">Phil. 2, 11.</note> that Ieſus Chriſt is the Lord, vnto the glory of God the Father.</p>
+               <p>Theſe ſhall fight with the Lambe,<note place="margin">Reue. 17, 14.</note> and the Lambe ſhall ouercome them: for he is Lord of Lordes, and King of Kinges: and they that are on his ſide, called, and choſen, and faythfull.</p>
+               <p>And he hath vpon his garment, and vpon his thigh,<note place="margin">Reue. 19, 16.</note> a name written, The King of Kinges, and Lord of Lordes.</p>
+               <p>I thanke him, which hath made mee ſtrong, that is,<note place="margin">1. Tim. 1, 12</note> Chriſt Ieſus our Lord: for he counted me faythfull, and put me in his ſeruice.</p>
+               <p>Who onely hath immortalitie,<note place="margin">1. Tim. 6, 16</note> and dwelleth in the light that none can attayne vnto, whom neuer man ſaw, neither can ſee: vnto whom be honour and power euerlaſting, Amen.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>OF ANTICHRIST</hi> and falſe Chriſtes.</head>
+               <p>WHO is a lyar,<note place="margin">1. Iohn. 2, 22.</note> but he that denieth that Ie<g ref="char:EOLhyphen"/>ſus is Chriſt? the ſame is the Antichriſt that denieth the Father and the Sonne.</p>
+               <p>And euery ſpirit which confeſſeth not that Ieſus Chriſt is come in the fleſh,<note place="margin">1. Iohn. 4, 3.</note> is not of God, but is the ſpirit of Antichriſt; of whom ye haue
+<pb facs="tcp:9684:11"/>
+heard, how that he ſhould come, and now already he is in the world.</p>
+               <p>
+                  <note place="margin">1. Iohn. 4, 5.</note>They are of the world, therefore ſpeake they of the world, and the world heareth them.</p>
+               <p>
+                  <note place="margin">2. Iohn. 7.</note>Many deceyuers are entred into the worlde, which confeſſe not that Ieſus Chriſt is come in the fleſh. He that is ſuch one, is a deceyuer, and an Antichriſt.</p>
+               <p>
+                  <note place="margin">Math. 24, 5,</note>Many ſhall come in my name, ſaying, I am Chriſt, and ſhall deceiue many.</p>
+               <p>
+                  <note place="margin">2. Theſ. 2.9.</note>Euen him whoſe comming is by the working of Satan, with all power, and ſignes, and lying wonders.</p>
+               <p>
+                  <note place="margin">Mat. 24, 24. Mar. 13, 22.</note>There ſhall ariſe falſe Chriſtes, and falſe Pro<g ref="char:EOLhyphen"/>phetes, and ſhall ſhew great ſignes and wonders; ſo that if it were poſſible, they ſhould deceiue the very elect.</p>
+               <p>
+                  <note place="margin">1. Iohn. 2, 18, 19.</note>Babes, it is the laſt time, and as ye haue heard that Antichriſt ſhall come, euen now are there many Antichriſtes: whereby we know, that it is the laſt time.</p>
+               <p>They went out from vs, but they were not of vs: For yf they had been of vs, they would haue con<g ref="char:EOLhyphen"/>tinued with vs. But this commeth to paſſe, that it might appeare, that they are not all of vs.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">Mat. 24, 23. Mar. 13, 21. Mat. 24, 25.</note>IF any ſhall ſay vnto you, Loe, here is Chriſt, or there, beleeue it not.</p>
+               <p>Beholde, I haue tolde you before.</p>
+               <p>
+                  <pb facs="tcp:9684:11"/>Wherefore if they ſhall ſay vnto you, Beholde,<note place="margin">Mat. 24, 26.</note> he is in the deſart, goe not foorth: beholde, he is in the ſe<g ref="char:EOLhyphen"/>cret places, beleeue it not.</p>
+               <p>Then they ſhall ſay to you: Beholde heere,<note place="margin">Luk 17, 23.</note> or beholde there: But go not thither, neither folow them.</p>
+               <p>Take heede that ye be not deceiued,<note place="margin">Luk. 21, 8.</note> for many will come in may name, ſaying, I am Chriſt, and the time draweth neare: folow ye not them therefore.</p>
+               <p>And Ieſus anſwered and ſayd vnto them,<note place="margin">Math. 24, 4. Mark. 13, 5.</note> Take heede that no man deceiue you.</p>
+               <p>Let no man deceiue you with vayne wordes:<note place="margin">Epheſ. 5, 6.</note> For ſuch thinges commeth the wrath of God vpon the chil<g ref="char:EOLhyphen"/>dren of diſobedience.</p>
+               <p>Let no man deceiue you by any meanes,<note place="margin">2. Theſ. 2, 3.</note> for that day ſhall not come, except there come a departing firſt, and that that man of Sinne be diſcloſed, euen the ſonne of perdition.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>OF FALSE PROPHETS,</hi> falſe Doctrine and Teachers.</head>
+               <p>SOnne of man,<note place="margin">Eze. 13, 2, 3.</note> prophecie againſt the Prophets of Iſrael that prophecie, and ſay thou vnto them that prophecie out of their owne hartes, Heare the worde of the Lord.</p>
+               <p>Thus ſayth the Lord God, Woe vnto the foo<g ref="char:EOLhyphen"/>lyſh Prophets that folow their owne ſpirite, and haue ſeene nothing.</p>
+               <p>And if the Prophet be deceiued when he hath ſpoken a thing,<note place="margin">Eze. 14, 9.</note> I the Lord haue deceiued that Pro<g ref="char:EOLhyphen"/>phet, and I will ſtretch out mine hand vpon him,
+<pb facs="tcp:9684:12"/>
+and will deſtroy him from the middes of my peo<g ref="char:EOLhyphen"/>ple Iſrael.</p>
+               <p>
+                  <note place="margin">Eze. 22, 25.</note>There is a conſpiracie of her Prophetes in the middes thereof like a roaring Lion, rauening the pray: they haue deuoured ſoules: they haue taken the riches and precious thinges: they haue made her many widowes in the mids thereof.</p>
+               <p>
+                  <note place="margin">Ier. 23, 9, 11, 21.</note>Mine hart breaketh within me becauſe of the Prophets, all my bones ſhake: I am like a drunken man, and like a man whom wine hath ouercome, for the preſence of the Lord, &amp; for his holy words.</p>
+               <p>For both the Prophet and the Prieſt doe wic<g ref="char:EOLhyphen"/>kedly: and their wickedneſſe haue I founde in mine Houſe, ſayth the Lord.</p>
+               <p>I haue not ſent theſe Prophetes, ſayth the Lord: yet they runne: I haue not ſpoken to them, and yet they propheſied.</p>
+               <p>
+                  <note place="margin">Ier. 14, 14.</note>The Prophetes propheſie lyes in my name: I haue not ſent them, neither did I commande them, neither ſpake I vnto them: But they propheſie vn<g ref="char:EOLhyphen"/>to you a falſe viſion, and diuination, and vanitie, and deceitfulneſſe of their owne hart.</p>
+               <p>
+                  <note place="margin">Ier. 27, 15. and 29, 9.</note>I haue not ſent them, ſayth the Lord, yet they propheſie a lye in my name, that I might caſt you out, and that ye might periſh, both you, and the Prophets that propheſie vnto you.</p>
+               <p>
+                  <note place="margin">1. Tim. 2, 1.</note>This know alſo, that in the laſt dayes, ſhall come perilous times.</p>
+               <p>
+                  <note place="margin">2. Pet. 2, 1.</note>There were falſe Prophetes alſo among the people, euen as there ſhalbe falſe Teachers among you: which priuily ſhall bring in damnable here<g ref="char:EOLhyphen"/>ſies,
+<pb facs="tcp:9684:12"/>
+euen denying the Lord, that hath bought them, and bring vpon themſelues ſwift damna<g ref="char:EOLhyphen"/>tion.</p>
+               <p>And many ſhall folow their damnable wayes,<note place="margin">2. Pet. 2, 2.</note> by whom the way of trueth ſhalbe euyll ſpoken of.</p>
+               <p>There are certayne men crept in,<note place="margin">Iude. 4, 18.</note> which were before of olde ordeyned to this condemnation: vngodly men they are, which turne the grace of our God into wantonneſſe, and denie God the onely Lord, and our Lord Ieſus Chriſt.</p>
+               <p>This firſt vnderſtande,<note place="margin">2. Pet. 3, 3.</note> that there ſhall come in the laſt dayes mockers, which will walke after their luſtes.</p>
+               <p>The Prophet that ſhall preſume to ſpeake a worde in my name,<note place="margin">Deut. 18, 20, 22.</note> which I haue not commaun<g ref="char:EOLhyphen"/>ded him to ſpeake, or that ſpeaketh in the name of other Gods, euen the ſame Prophet ſhall die.</p>
+               <p>When a Prophet ſpeaketh in the name of the Lord, yf the thing folow not, nor come to paſſe, that is, the thing which the Lord hath not ſpoken, but the Prophet hath ſpoken it preſumptuouſly: thou ſhalt not therefore be afrayde of him.</p>
+               <p>The Prieſtes ſayd not, VVhere is the Lorde?<note place="margin">Ier. 2, 8.</note> And they that ſhould miniſter the Law, knew me not: The Paſtours alſo offended againſt me, and the Prophetes propheſied in Baal, and went after thinges that did not profit.</p>
+               <p>I know this,<note place="margin">Act. 20, 29.</note> that after my departing ſhall gree<g ref="char:EOLhyphen"/>uous Wolues enter in among you, not ſparing the flocke.</p>
+               <p>
+                  <pb facs="tcp:9684:13"/>
+                  <note place="margin">1. Timo. 4, 1.</note>Now the ſpirite ſpeaketh euidently, that in the later times ſome ſhall depart from the Fayth, and ſhall geue heede vnto Spirites of errour, and doct<g ref="char:EOLhyphen"/>rines of Deuils.</p>
+               <p>
+                  <note place="margin">Galla. 1, 6, 7.</note>I marueile that ye are ſo ſoone remoued away vnto another Goſpel, from him that had called you in the grace of Chriſt,</p>
+               <p>Which is not another Goſpell, ſaue that there be ſome which trouble you, and intende to peruert the Goſpel of Chriſt.</p>
+               <p>
+                  <note place="margin">2. Cor. 11, 13, 14.</note>For ſuch falſe Apoſtles are deceitfull workers, and transforme them ſelues into the Apoſtles of Chriſt.</p>
+               <p>And no marueile: for Satan him ſelfe is tranſ<g ref="char:EOLhyphen"/>formed into an Angel of light.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">Rom. 16, 17</note>NOw I beſeech you brethren, marke them diligent<g ref="char:EOLhyphen"/>ly which cauſe diuiſion and offences, contrary to the doctrine which ye haue learned, and auoyde them.</p>
+               <p>
+                  <note place="margin">1. Cor. 3, 10, 11.</note>According to the grace of God giuen to mee, as a skil<g ref="char:EOLhyphen"/>full maiſter builder, I haue layde the foundation, and another buyldeth thereon: But let euery man take heede how he buyldeth vpon it.</p>
+               <p>For other foundation can no man lay, then that which is layde; which is Ieſus Chriſt.</p>
+               <p>
+                  <note place="margin">2. Iohn. 10.</note>If there come any vnto you, and bring not this doct<g ref="char:EOLhyphen"/>rine, receiue him not to houſe, neither bid him, God ſpeede.</p>
+               <p>
+                  <pb facs="tcp:9684:13"/>But though that we, or an Angel from heauen,<note place="margin">Galla, 1.8.</note> preach vnto you otherwiſe, then that ye haue receiued, let him be accurſed.</p>
+               <p>That we hencefoorth be no more children,<note place="margin">Ephe. 4, 14.</note> wauering and caryed about with euery winde of doctrine, by the deceit of men, and with craftines, whereby they lay in wayte to deceiue.</p>
+               <p>Beware of Dogges, beware of euill workers,<note place="margin">Phil. 3, 2.</note> beware of the conciſion.</p>
+               <p>Let no man at his pleaſure beare rule ouer you by hum<g ref="char:EOLhyphen"/>blenes of minde, and worſhypping of Angels,<note place="margin">Collo. 2, 18.</note> ad<g ref="char:EOLhyphen"/>uancing himſelfe in thoſe thinges which he neuer ſaw, raſhly puft vp with his fleſhly minde.</p>
+               <p>Beware of falſe Prophets,<note place="margin">Math. 7, 15.</note> which come to you in Sheepes clothing, but inwardly they are rauening Wolues.</p>
+               <p>Be not caryed about with diuers &amp; ſtrange doctrines:<note place="margin">Heb. 14.9.</note> for it is a good thing that the hart be ſtabliſhed with grace, and not with meates, which haue not profited them that haue been occupied therein.</p>
+            </div>
+            <div type="part">
+               <head>OF WORLDLY WISDOME.</head>
+               <p>BEHOLDE,<note place="margin">Eſa. 26 14.</note> I will againe doe a marueylous worke in this people, euen a marueylous worke, and a wonder: for the wiſedome of their wiſe men ſhall periſh, and the vnderſtanding of their prudent men ſhall be hid.</p>
+               <p>The knowledge of wickednes is not wiſedome,<note place="margin">Eccle. 19, 22</note> neither is there prudence whereas the counſaile of ſinners is: but it is euen execrable malice, and the foole is voyde of wiſedome.</p>
+               <p>
+                  <pb facs="tcp:9684:14"/>
+                  <note place="margin">Wiſd. 1, 4.</note>Wiſedome can not enter into a wicked hart, nor dwell in the body that is ſubiect vnto ſinne.</p>
+               <p>
+                  <note place="margin">Eccle. 1, 13, 14, 16, 17, 18</note>I haue geuen mine hart to ſearch and finde out Wiſedome, by all thinges that are done vnder the heauen: (this ſore trauell hath God geuen to the ſonnes of men, to humble them thereby.)</p>
+               <p>I haue conſidered all the workes that are done vnder the Sunne, and beholde all is vanitie and vex<g ref="char:EOLhyphen"/>ation of the ſpirit.</p>
+               <p>I thought in mine hart, and ſayd, Beholde I am become great, and excell in wiſedome all them that haue been before mee in Ieruſalem: and myne hart hath ſeene much wiſedome and knowledge.</p>
+               <p>And I gaue mine hart to know wiſedome and knowledge, madnes and fooliſhnes: I knew alſo that this is a vexation of the ſpirit.</p>
+               <p>For in the multitude of wiſedome is much griefe: and he that encreaſeth knowledge, encrea<g ref="char:EOLhyphen"/>ſeth ſorow.</p>
+               <p>
+                  <note place="margin">Eccle. 38, 25.</note>How can he get wiſedome that holdeth the plough, and he that hath pleaſure in the goad, and in driuing Oxen, and is occupied in their labours, and talketh but of the breede of Bullockes?</p>
+               <p>
+                  <note place="margin">1. Cor. 1, 26.</note>Brethren, you ſee your callyng, how that not many wyſe men after the fleſh, nor many mightie, nor many noble are called.</p>
+               <p>
+                  <note place="margin">Rom. 8, 7.</note>The wiſedome of the fleſh, is enimitie agaynſt God: for it is not ſubiect to the law of God, ney<g ref="char:EOLhyphen"/>ther in deede can be.</p>
+               <p>
+                  <note place="margin">Rom. 1, 22.</note>When they profeſſed themſelues to be wyſe,
+<pb facs="tcp:9684:14"/>
+they became fooles.</p>
+               <p>This wiſedome diſcendeth not from aboue:<note place="margin">Iam. 3, 15.</note> but is earthly, ſenſuall, and diuelyſh.</p>
+               <p>For it is written,<note place="margin">1. Cor. 1, 19, 20.</note> I will deſtroy the wiſedome of the wyſe; and I will caſt away the vnderſtanding of the prudent.</p>
+               <p>Where is the wyſe? Where is the Scribe? Where is the diſputer of this worlde? hath not God made the wiſedome of this world fooliſhnes?</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>HE taketh the Wiſe in their craftines,<note place="margin">Iob. 5, 13.</note> and the coun<g ref="char:EOLhyphen"/>ſayle of the wicked is made fooliſh.</p>
+               <p>He onely that applyeth his minde to the law of the moſt high,<note place="margin">Eccl. 39, 1, 9.</note> and is occupied in the meditation there<g ref="char:EOLhyphen"/>of, ſeeketh out the wiſedome of all the ancient, and exerciſeth him ſelfe in the prophecies.</p>
+               <p>Many ſhall commende his vnderſtanding, and his memorie ſhall neuer be put out, nor depart away: But his name ſhall continue from generation to ge<g ref="char:EOLhyphen"/>neration.</p>
+               <p>He that hath ſmall vnderſtanding, and feareth God,<note place="margin">Eccle. 19, 23</note> is better then one that hath much wiſedome, and tranſgreſseth the Law of the moſt high.</p>
+               <p>The wiſedome of a Learned man commeth by vſing well his vacant time:<note place="margin">Eccle. 38, 24.</note> and he that ceaſeth from his owne matters and labour, may come by wiſedome.</p>
+               <p>The preaching of the Croſſe is to them that peryſhe foolyſhneſſe: But vnto vs, which are ſaued,<note place="margin">1. Cor. 1, 18.</note> it is the power of God.</p>
+               <p>
+                  <pb facs="tcp:9684:15"/>
+                  <note place="margin">1. Cor 1, 21, 27, 28.</note>For ſeeing the worlde by wiſedome knew not God in the wiſedome of God, it pleaſed God by the fooliſh<g ref="char:EOLhyphen"/>neſſe of preaching, to ſaue them that beleeue.</p>
+               <p>But God hath choſen the fooliſh things of the world, to confound the wiſe: and God hath choſen the weake things of the world, to confound the mighty things.</p>
+               <p>And vile thinges of the worlde, and thinges that are deſpiſed, hath God choſen, and thinges which are not, to bring to nought thinges that are.</p>
+               <p>
+                  <note place="margin">1. Cor. 2, 6, 7, 8.</note>And we ſpeake wiſedome among them that are per<g ref="char:EOLhyphen"/>fect: not the wiſedome of this worlde, neither of the princes of this worlde, which come to nought.</p>
+               <p>But we ſpeake the wiſedome of God in a myſterie, euen the hid wiſedome, which God had determined be<g ref="char:EOLhyphen"/>fore the worlde, vnto our glory.</p>
+               <p>Which none of the princes of this world hath knowen: For had they knowen it, they would not haue cruci<g ref="char:EOLhyphen"/>fied the Lord of glory.</p>
+               <p>
+                  <note place="margin">1. Cor. 3, 18, 19.</note>Let no man deceiue himſelfe: If any man among you ſeeme to be wiſe in this worlde, let him be a foole, that he may be wiſe.</p>
+               <p>For the wiſedome of this worlde, is foolyſhneſſe with God: For it is written, He catcheth the wiſe in their owne craftineſſe.</p>
+               <p>
+                  <note place="margin">Iam. 3, 17.</note>The wiſedome that is from aboue, is firſt pure, then peaceable, gentle, eaſie to be intreated, full of mercie and good fruites, without iudging, and without hipocriſie.</p>
+               <p>
+                  <note place="margin">Eccle. 12, 13.</note>Let vs heare the ende of all: Feare God, and keepe his commandementes: for this is the whole duetie of a man<g ref="char:punc">▪</g>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:15"/>
+               <head>OF RICHES AND RICH-MEN.</head>
+               <p>WOE be to you that are rich:<note place="margin">Luk. 6, 24.</note> for ye haue receiued your conſolation.</p>
+               <p>Goe to now ye rich men:<note place="margin">Iam. 5, 1, 3, 4, 5, 6.</note> weepe and howle for your myſeries that ſhall come vppon you. Your riches are corrupt, and your garmentes are motheaten.</p>
+               <p>Your golde and ſiluer is cankered, and the ruſt of them ſhalbe a witneſſe againſt you, and ſhall eate your fleſh, as it were fire. Ye haue heaped vp trea<g ref="char:EOLhyphen"/>ſure for the laſt dayes.</p>
+               <p>Beholde, the hire of the labourers, which haue reaped your fieldes (which is of you kept backe by fraude) cryeth, and the cryes of them which haue reaped, are entred into the eares of the Lord of hoſtes.</p>
+               <p>Ye haue lyued in pleaſure on the earth, and in wantonneſſe. Ye haue nouriſhed your hartes, as in a day of ſlaughter.</p>
+               <p>Ye haue condemned and haue killed the iuſt, and he hath not reſiſted you.</p>
+               <p>Riches auayle not in the day of wrath:<note place="margin">Pro. 11, 4.</note> But righteouſneſſe deliuereth from death.</p>
+               <p>The rich dealeth vnrighteouſly,<note place="margin">Eccle. 13, 3.21.</note> and threatneth withall: but the poore being oppreſſed, muſt in<g ref="char:EOLhyphen"/>treate. If the riche haue done wrong, he muſt yet be intreated: but if the poore haue done it, he ſhall ſtraight wayes be threatned.</p>
+               <p>As the proude hate humilitie, ſo doe the riche
+<pb facs="tcp:9684:16"/>
+abhor the poore.</p>
+               <p>
+                  <note place="margin">Eccle. 13, 22, 23, 24.</note>If a Rich man fall, his friendes ſet him vp againe: but when the poore falleth, his friendes driue him away.</p>
+               <p>If a Rich man offende, he hath many helpers: he ſpeaketh proude wordes, and yet men iuſti<g ref="char:EOLhyphen"/>fie him: But yf a poore man fayle, they rebuke him, and though he ſpeake wiſely, yet can it haue no place.</p>
+               <p>When the Rich man ſpeaketh, euery man hol<g ref="char:EOLhyphen"/>deth his tongue, and looke what he ſayth, they prayſe it vnto the cloudes: But if the poore man ſpeake, they ſay, VVhat fellow is this? And yf he doe amiſſe, they will deſtroy him.</p>
+               <p>
+                  <note place="margin">Eccle. 11, 18, 19.</note>Some man is rich by his care and niggardſhyp, and this is the portion of his wages,</p>
+               <p>In that he ſayth, I haue gotten reſt, and now will I eate continually of my goodes: yet he con<g ref="char:EOLhyphen"/>ſidereth not that the time draweth neare, that he muſt leaue all theſe thinges vnto other men, and die him ſelfe.</p>
+               <p>
+                  <note place="margin">Eccle. 31, 3.</note>The Rich man hath great laboure in gathe<g ref="char:EOLhyphen"/>ring riches togeather, and in his reſt he is filled with pleaſure.</p>
+               <p>
+                  <note place="margin">Eccle. 4, 8.</note>There is one alone, which hath neither ſonne nor brother, yet is there no ende of all his trauell, neither can his eye be ſatiſfied with riches: neither doth he thinke, For whom doe I trauell, and de<g ref="char:EOLhyphen"/>fraude my ſoule of pleaſure? this alſo is vanitie, and this is an euyll trauell.</p>
+               <p>
+                  <note place="margin">Eccle. 5, 9, 12 13.</note>He that loueth Siluer, ſhall not be ſatisfied with
+<pb facs="tcp:9684:16"/>
+Siluer: and he that loueth Riches, ſhalbe without the fruite thereof,</p>
+               <p>There is an euyll ſicknes that I haue ſeene vn<g ref="char:EOLhyphen"/>der the ſunne: to wit, riches reſerued to the owners thereof for their euyll:</p>
+               <p>And thoſe riches periſh by euyll trauell: and he begetteth a ſonne, and in his hand is nothing.</p>
+               <p>A man to whom God hath geuen riches,<note place="margin">Eccle. 6, 2.</note> and treaſures, and honour, and he wanteth nothing for his ſoule of all that he deſireth: but God geueth him not power to eate thereof, but a ſtranger ſhall eate it vp: This is vanitie, and an euyll ſick<g ref="char:EOLhyphen"/>neſſe.</p>
+               <p>The Rich mans riches are his ſtrong citie,<note place="margin">Pro. 18, 11.</note> and as an high wall, in his imagination.</p>
+               <p>Riches remayne not alway,<note place="margin">Pro. 27, 24.</note> nor the crowne from generation to generation.</p>
+               <p>What profit hath the pompe of riches brought vs?<note place="margin">Wiſ. 5, 8, 9.13.</note>
+               </p>
+               <p>They paſſed away lyke a ſhadow, and as a Poſt that paſſeth by.</p>
+               <p>Euen ſo we, as ſoone as we be borne, we begin to draw to our ende, and haue ſhewed no token of vertue, but are conſumed in our wickedneſſe.</p>
+               <p>Doubtles man walketh in a ſhadow,<note place="margin">Pſal. 39, 6.</note> and diſquie<g ref="char:EOLhyphen"/>tch him ſelfe in vayne: he heapeth vp riches, and can not tell who ſhall gather them.</p>
+               <p>VVhere are the Princes of the Heathen,<note place="margin">Bar. 3, 17, 18</note> and ſuch as horded vp ſiluer and golde, wherein men truſt, and made none ende of their gatheringes?</p>
+               <p>They that coyned ſiluer, and were ſo carefull of
+<pb facs="tcp:9684:17"/>
+their worke, and whoſe inuention had none ende,</p>
+               <p>
+                  <note place="margin">Baru. 3, 19.</note>Are come to nought, and gone downe to hell, and other men are come vp in their ſteedes.</p>
+               <p>
+                  <note place="margin">Iob. 27, 8, 14 19, 23.</note>What hope hath the hypocrite when he hath heaped vp riches, yf God take away his ſoule?</p>
+               <p>If his children be in great number, the ſworde ſhall deſtroy them, and his poſteritie ſhall not be ſatisfied with bread.</p>
+               <p>When the rich man ſleepeth, he ſhall not be gathered to his fathers: they opened their eyes, and he was gone.</p>
+               <p>Euery man ſhall clap their handes at him, and hiſſe at him, out of their place.</p>
+               <p>
+                  <note place="margin">Mar. 4, 19.</note>The cares of this worlde, and the deceitfulneſſe of riches, and the luſtes of other thinges, enter in and choke the worde, and it is vnfruitfull.</p>
+               <p>
+                  <note place="margin">Luk. 16, 13. Math. 6, 24.</note>No ſeruant can ſerue two Maiſters, for either he ſhall hate the one and loue the other, or els he ſhal loue the one and deſpiſe the other: ye can not ſerue God and Riches.</p>
+               <p>
+                  <note place="margin">Eze. 7, 19.</note>They ſhall caſt their ſiluer in the ſtreetes, and their golde ſhalbe caſt farre off: Their ſiluer and their golde can not delyuer them in the day of the wrath of the Lord. They ſhall not ſatisfie their ſoules, neither fill their bowels, for their ruine is for their iniquitie.</p>
+               <p>
+                  <note place="margin">Zepha. 1, 18.</note>Neither their ſiluer nor their golde ſhalbe able to deliuer them in the day of the Lordes wrath: But the whole lande ſhalbe deuoured by the fire of his ielouſie, for he ſhall make euen a ſpeedie rid<g ref="char:EOLhyphen"/>dance of all them that dwell in the land.</p>
+               <p>
+                  <pb facs="tcp:9684:17"/>Ieſus ſayd vnto his diſciples,<note place="margin">Mat. 19, 23.24.</note> Verely I ſay vnto you, that a rich man ſhall hardly enter into the kingdome of heauen.</p>
+               <p>And agayne I ſay vnto you, It is eaſier for a Cammel to goe through the eye of a needle, then for a riche man to enter into the kingdome of God.</p>
+               <p>And I will ſay to my ſoule: Soule,<note place="margin">Luk. 12, 19, 20, 21.</note> thou haſt much goodes layde vp for many yeeres: liue at eaſe; eate, drinke, and take thy paſtime.</p>
+               <p>But God ſayd vnto him. O foole, this nyght will they fetch away thy ſoule from thee: then whoſe ſhall thoſe thinges be which thou haſt pro<g ref="char:EOLhyphen"/>uided?</p>
+               <p>So is he that gathereth riches to him ſelfe, and is not rich in God.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>BLeſſed is the rich which is found without blemyſh,<note place="margin">Ecclu. 31, 8.</note> and hath not gone after golde, nor heaped in money and treaſures.</p>
+               <p>We came naked into this worlde,<note place="margin">Iob. 1, 21.</note> and naked we muſt goe foorth againe.</p>
+               <p>Truſt not vnto thy riches: and ſay not,<note place="margin">Ecclu. 5, 1, 8.</note> I haue enough for my ſelfe: for it ſhall not helpe in the time of ven<g ref="char:EOLhyphen"/>gance and indignation.</p>
+               <p>Truſt not in wicked riches, for they ſhall not helpe thee in the day of puniſhment and vengeance.</p>
+               <p>Beware leaſt thou ſay in thine hart, My power,<note place="margin">Deut. 8, 17.</note> and the ſtrength of mine owne hand, hath prepared me
+<pb facs="tcp:9684:18"/>
+this abundance.</p>
+               <p>
+                  <note place="margin">Luk. 12, 15.</note>Take heede, and beware of couetouſneſſe: for though a man haue abundance, yet his lyfe ſtandeth not in his riches.</p>
+               <p>
+                  <note place="margin">1. Tim. 6, 17.</note>Charge them that are rich in this worlde, that they be not high minded, and that they truſt not in vn<g ref="char:EOLhyphen"/>certaine riches, but in the liuing God, which geueth vs abundantly all thinges to enioy.</p>
+            </div>
+            <div type="part">
+               <head>OF PRIDE AND <hi>Proude-men.</hi>
+               </head>
+               <p>
+                  <note place="margin">Eccle. 10, 7, 12, 13, 14.19</note>PRIDE is hatefull before God and man.</p>
+               <p>Why is earth and aſhes proude, ſeeing that when a man dyeth he is the heire of Ser<g ref="char:EOLhyphen"/>pentes, beaſtes, and wormes.</p>
+               <p>The beginning of mans pride, is to fall away from God, and to turne away his hart from his maker.</p>
+               <p>Pride is the originall of Sinne, and he that hath it, ſhall powre out abhomination, tyll at laſt he be ouerthrowen: therfore the Lord bringeth the perſwaſion of the wicked to diſhonour, and de<g ref="char:EOLhyphen"/>ſtroyeth them.</p>
+               <p>Pride was not created in man.</p>
+               <p>
+                  <note place="margin">Pſal. 10, 2, 4.</note>The wicked with pride, doth perſecute the poore: Let them be taken in the craftes that they haue imagined.</p>
+               <p>The wicked is ſo proude, that he ſeeketh not for God: he thinketh alwayes, There is no God.</p>
+               <p>
+                  <pb facs="tcp:9684:18"/>The proude haue layde a ſnare for me,<note place="margin">Pſal. 140, 5.</note> and ſpread a net with cordes in my path-way, and ſet grinnes for me.</p>
+               <p>The Lord cut off all flattering lyppes:<note place="margin">Pſal. 12, 3.</note> and the tongue that ſpeaketh proude thinges.</p>
+               <p>Lord, mine hart is not hautie,<note place="margin">Pſal. 131, 1.</note> neither are mine eyes loftie: neither haue I walked in matters hid from me.</p>
+               <p>Let not the foote of pride come againſt me:<note place="margin">Pſal. 36, 11.</note> and let not the hand of the wicked men moue me.</p>
+               <p>Mockerie and reproch folow the proude:<note place="margin">Ecclu. 27, 28</note> and vengeance lurketh for them as a Lyon.</p>
+               <p>The proude man is as he that tranſgreſſeth by wine: therfore ſhall he not endure,<note place="margin">Haba. 2, 5.</note> becauſe he hath enlarged his deſire as the hell, and is as death, and can not be ſatisfied, but gathereth vnto him all na<g ref="char:EOLhyphen"/>tions, and heapeth vnto him all people.</p>
+               <p>The high looke of man ſhalbe humbled,<note place="margin">Eſa. 11, 11, 12.</note> and the loftines of men ſhalbe abaſed; and the Lord onely ſhalbe exalted.</p>
+               <p>For the day of the Lord of hoſtes is vpon all the proude and hautie, and vpon all that is exalted, and it ſhalbe made low.</p>
+               <p>We haue heard the pride of <hi>Moab</hi> (he is excee<g ref="char:EOLhyphen"/>ding proud) his ſtoutneſſe, and his arrogancie,<note place="margin">Ier. 48, 29.</note> and his pride, and the hautineſſe of his hart.</p>
+               <p>A hautie looke, and a proude hatt,<note place="margin">Pro. 21, 4.24</note> which is the lyght of the wicked, is ſinne.</p>
+               <p>Proude, hautie, and ſcornefull, is his name, that worketh in his arrogancie wrath.</p>
+               <p>Pride goeth before deſtruction,<note place="margin">Pro. 16.18.</note> and an high
+<pb facs="tcp:9684:19"/>
+minde, before the fall.</p>
+               <p>
+                  <note place="margin">Pro. 11, 2.</note>When pride commeth, then commeth ſhame: but with the lowlie is wiſedome.</p>
+               <p>
+                  <note place="margin">Pro. 29, 23.</note>The pride of a man ſhall bring him low: but the humble in ſpirit ſhall enioy glory.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">Pſal. 40, 4.</note>BLeſſed is the man that maketh the Lord his truſt, and regardeth not the proude.</p>
+               <p>
+                  <note place="margin">1. Pet. 5, 5, 6.</note>Submit your ſelues euery man one to another: decke your ſelues inwardly in lowlineſſe of minde: for God reſiſteth the proude, and geueth grace to the humble.</p>
+               <p>Humble your ſelues vnder the mightie hand of God, that he may exalt you in due time.</p>
+               <p>
+                  <note place="margin">Ecclu. 10, 15 16, 18.</note>The Lord hath caſt downe the throne of the proude Princes, and ſet vp the meeke in their ſtead.</p>
+               <p>The Lord plucketh vp the rootes of the proud nations, and planteth the lowly among them.</p>
+               <p>God deſtroyeth the memoriall of the proude, and lea<g ref="char:EOLhyphen"/>ueth the remembrance of the humble.</p>
+               <p>
+                  <note place="margin">Rom. 12, 10.</note>Be affectioned to loue one another with brotherly loue: In geuing honour, goe one before another.</p>
+               <p>
+                  <note place="margin">Iam. 4, 6, 10.</note>But the Scripture offereth more grace, and therefore ſayth, God reſiſteth the proude, and geueth grace to to the humble.</p>
+               <p>Caſt downe your ſelues before the Lord, and he will lift you vp.</p>
+               <p>
+                  <note place="margin">1. Pet 2, 17.</note>Honour all men: loue brotherly felowſhyp: feare God: honour the King.</p>
+               <p>
+                  <pb facs="tcp:9684:19"/>Whoſoeuer exalteth himſelfe, ſhalbe brought low,<note place="margin">Luk. 14.11. and. 18, 14. Mat. 23, 12.</note> and he that humbleth himſelfe, ſhalbe exalted.</p>
+            </div>
+            <div type="part">
+               <head>OF WHOREDOME <hi>and Whoremongers.</hi>
+               </head>
+               <p>FOR becauſe of the whoriſh Woman,<note place="margin">Pro. 6, 2, 32</note> a man is brought to a morſel of bread: and a woman will hunt for the precious life of a man.</p>
+               <p>He that committeth adulterie with a woman, he is deſtitute of vnderſtanding: he that doth it, deſtroyeth his owne ſoule.</p>
+               <p>I ſaw among the fooles,<note place="margin">Pro. 7, 7, 9, 10, 11, 12, 13 14, 15, 16.</note> and conſidered among the children a young man deſtitute of vnderſtan<g ref="char:EOLhyphen"/>ding,</p>
+               <p>Who paſſed through the ſtreete in the twilight in the euening, when the night began to be blacke and darke.</p>
+               <p>And beholde, there met him a woman with an Harlots behauiour, and ſubtill in hart.</p>
+               <p>(Shee is babbling and loude: whoſe feete can not abyde in her houſe.</p>
+               <p>Now ſhe is without, now in the ſtreetes, and ly<g ref="char:EOLhyphen"/>eth in wayte at euery corner.)</p>
+               <p>So ſhe caught him, and kiſſed him, and with an impudent face ſayd vnto him,</p>
+               <p>I haue peace offeringes, this day haue I payde my vowes.</p>
+               <p>Therefore came I foorth to meete thee, that I might ſeeke thy face: and I haue found thee.</p>
+               <p>I haue deckt my bed with ornamentes, Carpets,
+<pb facs="tcp:9684:20"/>
+and laces of Egypt.</p>
+               <p>
+                  <note place="margin">Pro. 7, 17, 18 19, 20, 21, 22 23.</note>I haue perfumed my bed with Myrrhe, Oloes, and Cinamom.</p>
+               <p>Come, let vs take our fill of loue vntill the mor<g ref="char:EOLhyphen"/>ning: let vs take our pleaſure in daliance:</p>
+               <p>For mine husband is not at home: he is gone a iourney a farre off.</p>
+               <p>He hath taken with him a bagge of ſiluer, and will come home at the day appoynted.</p>
+               <p>Thus with her great cralt ſhe cauſed him to yeelde, and with her flatteryng lyppes ſhe entiſed him.</p>
+               <p>And he folowed her ſtraight wayes, as an Oxe to the ſlaughter, and as a foole to the ſtockes for correction,</p>
+               <p>Till a dart ſtrike through his lyuer, as a birde haſteth to the ſnare, not knowing that he is in danger.</p>
+               <p>
+                  <note place="margin">Pro. 19, 3.</note>He that feedeth Harlottes, waſteth his ſub<g ref="char:EOLhyphen"/>ſtance.</p>
+               <p>
+                  <note place="margin">Ecclu. 9, 2, 3, 4, 5, 6.</note>Geue not thy life vnto a woman, leaſt ſhe ouer<g ref="char:EOLhyphen"/>come thy ſtrength, and ſo thou be confounded.</p>
+               <p>Meete not an Harlot, leaſt thou fall into her ſnares.</p>
+               <p>Vſe not the company of a woman that is a ſing<g ref="char:EOLhyphen"/>ger and a dauncer: neither heare her, leaſt thou be taken by her craftines.</p>
+               <p>Gaze not on a Mayde, that thou fall not by that, that is precious in her.</p>
+               <p>Caſt not thy minde vpon Harlots in any maner of thing, leaſt thou deſtroy both thy ſelfe and thine
+<pb facs="tcp:9684:20"/>
+heritage.</p>
+               <p>The lyppes of a ſtrange woman drop as an hony combe, and her mouth is more ſoft then oyle:<note place="margin">Pro. 5, 3, 4, 5, 6.</note>
+               </p>
+               <p>But the ende of her is bitter as wormewood, and ſharpe as a two edged ſworde.</p>
+               <p>Her feete goe downe to death, and her ſteppes take holde on hell.</p>
+               <p>She weigheth not the way of lyfe: her pathes are moueable, thou canſt not know them.</p>
+               <p>An adulterous woman,<note place="margin">Pro. 30, 20.</note> ſhe eateth and wypeth her mouth, and ſayth, I haue not committed ini<g ref="char:EOLhyphen"/>quitie.</p>
+               <p>Thou ſhalt not commit adulterie.<note place="margin">Exod. 20.14</note>
+               </p>
+               <p>In the middeſt of thee,<note place="margin">Eze. 22, 9, 10 11.</note> they haue committed ab<g ref="char:EOLhyphen"/>homination.</p>
+               <p>In thee haue they diſcouered their fathers ſhame. In thee haue they vexed her, that was polluted in her flowers.</p>
+               <p>And euery one hath committed abhomination with his neighbours wyfe: and euery one hath wickedly defiled his daughter in law: and in thee hath euery man forced his owne ſiſter, euen his fa<g ref="char:EOLhyphen"/>thers daughter.</p>
+               <p>How ſhould I ſpare thee for this?<note place="margin">Ier. 5, 7, 8.</note> Thy chidren haue forſaken mee, and ſworne by them that are no Gods: though I fedde them to the full, yet they committed adulterie, and aſſembled them ſelues by companies in the harlottes houſes.</p>
+               <p>They roſe vp in the morning like fed Horſes: for euery man neyed after his neighbours wyfe.</p>
+               <p>The man that committeth adulterie with an<g ref="char:EOLhyphen"/>other<note place="margin">Leui. 20, 10.</note>
+                  <pb facs="tcp:9684:21"/>
+mans wife, becauſe he hath committed ad<g ref="char:EOLhyphen"/>ulterie with his neighbours wife, the adulterer and the adultereſſe ſhall die the death.</p>
+               <p>
+                  <note place="margin">Leui. 10, 11, 12, 13, 14, 15 16, 17, 18, 19 20, 21.</note>And the man that lyeth with his Fathers wyfe, becauſe he hath vncouered his fathers ſhame, they ſhall both die: their blood ſhalbe vpon them.</p>
+               <p>Alſo, the man that lyeth with his daughter in Law, they both ſhall die the death: they haue wrought abhomination; their blood ſhalbe vpon them.</p>
+               <p>The man alſo that lyeth with the Male as one lyeth with a woman, they haue both committed abhomination: they ſhall die the death; their blood ſhalbe vpon them.</p>
+               <p>Likewiſe, he that taketh a wife and her mother, committeth wickedneſſe: they ſhall burne him and them with fire, that there be no wickedneſſe among you.</p>
+               <p>
+                  <note place="margin">Deut. 23, 17, 18.</note>There ſhalbe no whore of the daughters of Iſ<g ref="char:EOLhyphen"/>rael: neither ſhall there be a whore keeper of the ſonnes of Iſrael.</p>
+               <p>
+                  <note place="margin">Leui. 19, 29.</note>Thou ſhalt not make thy daughter common, to cauſe her to be a whore, leaſt the land alſo fall to whoredome, and the land fall of wickednes.</p>
+               <p>
+                  <note place="margin">Eccle. 23, 17.18.</note>All bread is ſweete to a whore-monger: he will not leaue off tyll he periſh.</p>
+               <p>A man that breaketh wedlocke, and thinketh thus in his hart, VVho ſeeth mee? I am compaſ<g ref="char:EOLhyphen"/>ſed about with darkneſſe: the walles couer mee: no bodie ſeeth mee: VVhom neede I to feare? the moſt high will not remember my ſinnes.</p>
+               <p>
+                  <pb facs="tcp:9684:21"/>The ſame man ſhalbe puniſhed in the ſtreetes of the Citie,<note place="margin">Eccle. 23, 21, 22, 23, 24, 25 26.</note> and ſhalbe chaſed like a young Horſe foale: and when he thinketh not vpon it, he ſhalbe taken: Thus ſhall he be put to ſhame of euery man, becauſe he would not vnderſtande the feare of the Lord.</p>
+               <p>Ye haue heard that it was ſayd vnto them of olde time, Thou ſhalt not commit adulterie.<note place="margin">Math. 5, 27, 28.</note>
+               </p>
+               <p>But I ſay vnto you, that who ſoeuer looketh on a woman to luſt after her, hath committed adulte<g ref="char:EOLhyphen"/>rie with her alreadie in his hart.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>TVrne away thine eye from a beautifull woman,<note place="margin">Eccle. 9, 8.</note> and looke not vpon others beautie: for many haue peri<g ref="char:EOLhyphen"/>ſhed by the beautie of women: for through it loue is kindled as a fire.</p>
+               <p>Heare ye mee now therefore O children,<note place="margin">Pro. 5, 7, 8, 9, 10, 11, 12.</note> and depart not from the wordes of my mouth.</p>
+               <p>Keepe thy way farre from her, and come not neare the doore of her houſe,</p>
+               <p>Leaſt thou geue thine honour vnto others, and thy yeeres to the cruell:</p>
+               <p>Leaſt the ſtranger ſhould be filled with thy ſtrength, and thy labours be in the houſe of a ſtranger,</p>
+               <p>And thou mourne at thine ende (when thou haſt con<g ref="char:EOLhyphen"/>ſumed thy fleſh and thy body)</p>
+               <p>And ſay, How haue I hated inſtruction, and mine hart deſpiſed correction!</p>
+               <p>Let vs not commit fornication, as ſome of them did,<note place="margin">1. Cor. 10, 8.</note>
+                  <pb facs="tcp:9684:22"/>
+and fell in one day three and twentie thouſande.</p>
+               <p>
+                  <note place="margin">1. Cor. 6, 15.16, 18, 19, 20</note>Know ye not, that your bodyes are the members of Chriſt? Shall I then take the members of Chriſt, and make them the members of an Harlot? God forbid.</p>
+               <p>Doe you not know, that he which coupleth himſelfe with an Harlot, is one body? for two, ſayth he, ſhalbe one fleſh.</p>
+               <p>Flie fornication: for euery ſinne that a man doth, is without the body: But he that committeth fornica<g ref="char:EOLhyphen"/>tion, ſinneth againſt his owne body.</p>
+               <p>Know ye not that your body is the temple of the holy Ghoſt, which is in you, whom ye haue of God? and ye are not your owne.</p>
+               <p>For ye are bought for a price: therefore glorifie God in your body, and in your ſpirit: for they are Gods.</p>
+               <p>
+                  <note place="margin">Pro. 6, 24, 25</note>Keepe thee from the wicked woman, and from the flat<g ref="char:EOLhyphen"/>terie of the tongue of a ſtrange woman.</p>
+               <p>Deſire not her beautie in thine hart, neither let her take thee with her eye-lids.</p>
+               <p>
+                  <note place="margin">1. Cor. 6, 9.</note>Know ye not that the vnrighteous ſhall not inherite the kingdome of God? Neither fornicators, nor ad<g ref="char:EOLhyphen"/>ulterers, nor wantons, nor buggerers.</p>
+               <p>
+                  <note place="margin">Ephe. 5, 5, 3.</note>This ye know, that no whoremongers, neither vn<g ref="char:EOLhyphen"/>cleane perſons, hath any inheritaunce in the king<g ref="char:EOLhyphen"/>dome of Chriſt and of God.</p>
+               <p>But fornication, and all vncleanneſſe, let it not be once named amongst you, as it becommeth Sainctes.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:22"/>
+               <head>OF DRVNKARDS <hi>and Gluttons.</hi>
+               </head>
+               <p>IT is not for Kinges to drinke wine,<note place="margin">Pro. 31, 4, 5, 6, 7.</note> nor for Princes ſtrong drinke,</p>
+               <p>Leaſt he drinke and forget the decree, and change the iudgement of all the children of af<g ref="char:EOLhyphen"/>fliction.</p>
+               <p>Geue ye ſtrong drinke vnto him that is ready to periſh, &amp; wine vnto them that haue griefe of hart.</p>
+               <p>Let him drinke, that he may forget his pouertie, and remember his miſerie no more.</p>
+               <p>To whom is woe? to whom is ſorow?<note place="margin">Pro. 23, 29.30, 31, 32.</note> to whom is ſtrife? to whom is murmuring? to whom are woundes without cauſe? and to whom is the red<g ref="char:EOLhyphen"/>neſſe of the eyes?</p>
+               <p>Euen to them that tary long at the wine, to them that goe, and ſeeke mixt wine.</p>
+               <p>Looke not thou vpon the wine, when it is red, and when it ſheweth his colour in the cup, or go<g ref="char:EOLhyphen"/>eth downe pleaſantly.</p>
+               <p>In the ende thereof it will bite like a Serpent, and hurt like a Cockatriſe.</p>
+               <p>Woe vnto them that riſe vp early to folow drunkenneſſe,<note place="margin">Eſa. 5, 11, 12.</note> and to them that continue vntyll nyght, till the wine do inflame them.</p>
+               <p>And the harpe, and the viole, timbrell and pipe, and wine, are in their faces: but they regard not the worke of the Lord, neither conſider the worke of his handes.</p>
+               <p>
+                  <pb facs="tcp:9684:23"/>
+                  <note place="margin">Eſa. 5, 22.</note>Woe vnto them that are mightie to drinke wine; and to them that are ſtrong to power in ſtrong drinke.</p>
+               <p>
+                  <note place="margin">1. Eſdr. 3, 18, 19, 22, 23.</note>O ye men, how ſtrong is wine? it deceiueth all men that drinke it.</p>
+               <p>It maketh the minde of the king and of the fa<g ref="char:EOLhyphen"/>therleſſe both one; of the bondman, and of the freeman, of the poore man and of the rich man.</p>
+               <p>When men haue drunke, they haue no minde to loue eyther friendes or brethren; and a litle af<g ref="char:EOLhyphen"/>ter they draw out ſwordes.</p>
+               <p>But when they are from the wine, they do not remember what they haue done.</p>
+               <p>
+                  <note place="margin">Eſa. 28, 7.8.</note>They haue erred becauſe of wine, and are out of the way by ſtrong drinke. The Prieſt and the Prophet haue erred by ſtrong drinke, they are ſwallowed vp with wine, they haue gone aſtray through ſtrong drinke, they fayle in viſion, they ſtumble in iudgement.</p>
+               <p>For all their Tables are full of filthy vomyting; no place is cleane.</p>
+               <p>
+                  <note place="margin">Eſa. 56, 12.</note>Come, I will bring wine, and we will fill our ſelues with ſtrong drinke, and to morow ſhalbe as this day, and much more abundant.</p>
+               <p>
+                  <note place="margin">Haba. 2, 15.</note>Woe vnto him that geueth his neighbour drinke: thou ioyneſt thine hart and makeſt him drunken alſo, that thou mayeſt ſee their priuities.</p>
+               <p>
+                  <note place="margin">Leui. 10, 9.</note>Thou ſhalt not drinke wine nor ſtrong drinke, thou, nor thy ſonnes with thee, when ye come into the Tabernacle of the congregation, leaſt ye die: this is an ordinance for euer throughout your
+<pb facs="tcp:9684:23"/>
+generation.</p>
+               <p>Wine is a mocker, and ſtrong drinke is raging:<note place="margin">Pro, 20, 1.</note> and whoſoeuer is deceiued thereby is not wiſe.</p>
+               <p>Wine drunken with exceſſe,<note place="margin">Eccle. 31, 29, 30.</note> maketh bitterneſſe of minde with brawlinges and ſcouldinges.</p>
+               <p>Drunkenneſſe increaſeth the courage of a foole, till he offende: it diminiſheth his ſtrength, and ma<g ref="char:EOLhyphen"/>keth woundes.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>DOE that to no man which thou hateſt:<note place="margin">Tob. 4, 15.</note> Drinke not Wine to make thee drunke, neither let drunken<g ref="char:EOLhyphen"/>neſſe goe with thee in thy iourney.</p>
+               <p>Shew not thy valiantneſſe in Wine:<note place="margin">Eccle. 31, 15, 16, 17.</note> for Wine hath deſtroyed many.</p>
+               <p>Eate moderately that which is ſet before thee, and de<g ref="char:EOLhyphen"/>uoure not, leaſt thou be hated.</p>
+               <p>Leaue thou off firſt for manners ſake, and be not inſa<g ref="char:EOLhyphen"/>tiable, leaſt thou offende.</p>
+               <p>Keepe not company with drunkardes,<note place="margin">Pro. 23, 20.</note> nor with glut<g ref="char:EOLhyphen"/>tons.</p>
+               <p>Be not drunke with Wine, wherein is exceſſe:<note place="margin">Ephe. 5, 18.</note> but be filled with the ſpirit.</p>
+               <p>Take heede to your ſelues,<note place="margin">Luk. 21, 34.</note> leaſt at any time your hartes be oppreſſed with ſurfetting and drunkenneſſe and cares of this life, and leaſt that day come on you at vnwares.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:24"/>
+               <head>OF COVETOVSNES.</head>
+               <p>
+                  <note place="margin">Eccle. 14, 9.</note>A Couetous mans eye hath neuer ynough of a portion, and his wicked malice wythereth his owne ſoule.</p>
+               <p>
+                  <note place="margin">Eccle. 10, 9.</note>There is nothing worſe then a couetous man: Why art thou proude, O earth and aſhes? There is not a more wicked thing then to loue money: for ſuch one would euen ſell his ſoule, and for his lyfe euery one is compelled to pull out his owne bowels.</p>
+               <p>
+                  <note place="margin">Eccle. 31, 1, 2.</note>Waking after riches, pineth away the body: and the care thereof dryueth away ſleepe.</p>
+               <p>This waking care breaketh the ſleepe, as a great ſicknes breaketh the ſleepe.</p>
+               <p>
+                  <note place="margin">Eſa. 3, 14, 15.</note>The Lord ſhall enter into iudgement with the auncientes of his people, and the princes thereof: for ye haue eaten vp the vineyarde, the ſpoyle of the poore is in your houſes.</p>
+               <p>What haue ye to do, that ye beate my people to peeces, and grinde the faces of the poore, ſayth the Lord, euen the Lord of hoſtes?</p>
+               <p>
+                  <note place="margin">Eſa. 56, 11.</note>And theſe greedy Dogges can neuer haue ynough: and theſe Sheepheards can not vnder<g ref="char:EOLhyphen"/>ſtande: for they all looke to their owne way, euery one for his aduantage, and for his owne purpoſe.</p>
+               <p>
+                  <note place="margin">Eſa. 5.8,</note>Woe vnto them that ioyne houſe to houſe, and lay fielde to fielde, till there be no place, that ye may be placed by your ſelues in the myds of the earth.</p>
+               <p>
+                  <pb facs="tcp:9684:24"/>As a cage is full of birdes,<note place="margin">Ier. 5, 27, 28.</note> ſo are their houſes full of deceipt: thereby they are become great, and waxen rich.</p>
+               <p>They are waxen fat and ſhyning: they do ouer paſſe the deedes of the wicked: they execute no iudgement, no not the iudgement of the Fatherles; yet they proſper, though they execute no iudge<g ref="char:EOLhyphen"/>ment for the poore.</p>
+               <p>Therefore will I giue their wyues vnto others,<note place="margin">Ier. 8, 10.</note> and their fieldes to them that ſhall poſſeſſe them: for euery one from the leaſt to the greateſt, is euen too couetous: and from the Prophet euen vnto the Prieſt, euery one dealeth falſely.</p>
+               <p>He hath vndone many:<note place="margin">Iob. 20, 19.</note> he hath forſaken the poore, and hath ſpoyled houſes which he buylt not.</p>
+               <p>Incline mine hart vnto thy teſtimonies,<note place="margin">Pſal. 116, 36</note> and not to couetouſneſſe.</p>
+               <p>The graue and deſtruction can neuer be full:<note place="margin">Pro, 27, 20.</note> So the eyes of a man can neuer be ſatisfied.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>BEtter is a litle with the feare of the Lord,<note place="margin">Pro. 15, 16.</note> then great treaſure and trouble therewith.</p>
+               <p>A ſmall thing vnto the iuſt man,<note place="margin">Pſal. 37, 16.</note> is better then great riches to the wicked and mightie.</p>
+               <p>Let your conuerſation be without couetouſnes,<note place="margin">Iam. 13, 5.</note> and be content with thoſe thinges that ye haue: for he hath ſayd, I will not fayle thee, neither forſake thee.</p>
+               <p>
+                  <pb facs="tcp:9684:25"/>
+                  <note place="margin">Collo. 3.5.</note>Mortifie your members which are on the earth, for<g ref="char:EOLhyphen"/>nication, vncleanneſſe, the inordinate affection, euyll concupiſence, and couetouſneſſe which is ido<g ref="char:EOLhyphen"/>latrie.</p>
+               <p>
+                  <note place="margin">1. Timo. 6, 9, 10.</note>They that wilbe rich, fall into tentation and ſnares, and into many fooliſh and noyſome luſtes, which drowne men in perdition and diſtruction.</p>
+               <p>The deſire of money is the roote of all euyll, which while ſome luſted after, they erred from the fayth, and pearſed them ſelues through with many ſor<g ref="char:EOLhyphen"/>rowes.</p>
+               <p>
+                  <note place="margin">Luk. 12, 33. Math. 6, 19.20, 21.</note>Lay not vp treaſures for your ſelues vpon the earth, where the Moth and canker corrupt, and where theeues digge through and ſteale.</p>
+               <p>But lay vp Treaſures for your ſelues in heauen, where neither the Moth nor canker corrupteth, and where theeues neither digge through nor ſteale.</p>
+               <p>For where your treaſure is, there will your hart be alſo.</p>
+               <p>
+                  <note place="margin">Ephe. 5, 3.</note>But fornication, and all vncleanneſſe, or couetouſneſse, let it not be once named amongst you, as it becom<g ref="char:EOLhyphen"/>meth Sainctes.</p>
+            </div>
+            <div type="part">
+               <head>OF VSVRIE AND VSVRERS.</head>
+               <p>
+                  <note place="margin">Deut. 23, 19.</note>THOV ſhalt not giue to vſurie to thy bro<g ref="char:EOLhyphen"/>ther: as vſurie of money, vſurie of meate, vſurie of any thing that is put to vſurie.</p>
+               <p>
+                  <note place="margin">Exod. 22, 25.</note>If thou lende money to my people, that is, to
+<pb facs="tcp:9684:25"/>
+the poore with thee, thou ſhalt not be as a Vſurer vnto him: ye ſhall not oppreſſe him with Vſurie.</p>
+               <p>If thou take thy neighbours rayment to pledge, thou ſhalt reſtore it vnto him before the Sunne going downe.</p>
+               <p>Thou ſhalt take no Vſurie of thy brother,<note place="margin">Leui. 25, 36, 37.</note> nor vantage: but thou ſhalt feare thy God, that thy bro<g ref="char:EOLhyphen"/>ther may lyue with thee.</p>
+               <p>Thou ſhalt not giue him thy money to Vſurie, nor lende him thy victuals for increaſe.</p>
+               <p>He that increaſeth his riches by Vſurie and in<g ref="char:EOLhyphen"/>tereſt,<note place="margin">Pro. 28, 8.</note> gathereth them for him that wilbe mercifull vnto the poore.</p>
+               <p>The poore and the vſurer meete togeather,<note place="margin">Pro. 29, 13.</note> and the Lord lyghteneth both their eyes.</p>
+               <p>Lord who ſhall dwell in thy Tabernacle?<note place="margin">Pſal. 15, 1, 5.</note> who ſhall reſt in thine holy mountaine?</p>
+               <p>He that geueth not his money vnto Vſurie, nor taketh reward againſt the innocent.</p>
+               <p>In thee haue they taken gyftes to ſhed blood:<note place="margin">Eze. 22, 12.</note> Thou haſt taken Vſurie, and the increaſe, and thou haſt defrawded thy neighbours by extortion, and haſt forgotten mee, ſayth the Lord.</p>
+               <p>He that hath not oppreſſed any,<note place="margin">Eze. 18, 7, 8.</note> but hath reſto<g ref="char:EOLhyphen"/>red the pledge: He that hath ſpoyled none by vio<g ref="char:EOLhyphen"/>lence, but hath geuen his bread to the hungrie, and hath couered the naked with a garment, and hath not geuen forth vpo<g ref="char:cmbAbbrStroke">̄</g> vſurie, neither hath taken any increaſe, but hath withdrawen his hand from ini<g ref="char:EOLhyphen"/>quitie, &amp; hath executed true iudgment betweene man and man, He ſhall ſurely lyue, ſayth the Lord.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:26"/>
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">Deu. 15, 7, 8.</note>IF one of thy brethren be poore, thou ſhalt not har<g ref="char:EOLhyphen"/>den thine hart, nor ſhut thine hand from thy poore brother:</p>
+               <p>But thou ſhalt open thine hand vnto him, and ſhalt lende him ſufficient for his neede which he hath.</p>
+               <p>
+                  <note place="margin">Math. 5, 42</note>Giue to him that asketh: and from him that woulde borrow of thee turne not away.</p>
+               <p>
+                  <note place="margin">Luk. 6, 34, 35.</note>And if ye lende to them of whom ye hope to receiue, what thanke ſhall ye haue? for euen the ſinners lende to ſinners, to receiue the like.</p>
+               <p>Wherefore, Loue ye your enimies, and doe good, and lende, looking for nothing againe, and your reward ſhalbe great, and ye ſhalbe the children of the moſt High: for he is kinde vnto the vnkinde, and to the euyll.</p>
+            </div>
+            <div type="part">
+               <head>OF FALSE WEIGHTES <hi>and Meaſures.</hi>
+               </head>
+               <p>
+                  <note place="margin">Deut. 25, 13, 14.</note>THOV ſhalt not haue in thy bagge two ma<g ref="char:EOLhyphen"/>ner of Weightes, a great and a ſmall.</p>
+               <p>Neither thou ſhalt haue in thine houſe, di<g ref="char:EOLhyphen"/>uers Meaſures, a great and a ſmall.</p>
+               <p>
+                  <note place="margin">Pro. 11, 1.</note>Falſe Balances are an abhomination vnto the Lord: but a perfect Weight pleaſeth him.</p>
+               <p>
+                  <note place="margin">Pro. 20, 10.</note>Diuers Weightes, and diuers Meaſures, both theſe are euen abhomination vnto the Lord.</p>
+               <p>
+                  <note place="margin">Hoſe. 12, 7.</note>He is <hi>Canaan:</hi> the Balances of deceit are in his
+<pb facs="tcp:9684:26"/>
+hand: he loueth to oppreſſe.</p>
+               <p>With him is ſtrength and wiſedome:<note place="margin">Iob. 12, 16.</note> he that is deceiued, and he that deceiueth, is his.</p>
+               <p>Ye ſhall not doe vniuſtly in iudgement, in line,<note place="margin">Leuit. 19, 35.</note> in weight, or in meaſure.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>A True Weight and Balance are of the Lord:<note place="margin">Pro. 16, 11.</note> all the Weightes of the bagge are his worke.<note place="margin">Leuit. 19, 36</note>
+               </p>
+               <p>Ye ſhall haue iuſt Balances, true Weightes, a true Ephah, and a true Hin. I am the Lord your God, which haue brought you out of the land of Egypt.</p>
+               <p>Thou ſhalt haue a right and a iuſt Weight:<note place="margin">Deut. 25, 15, 16.</note> a perfect and a iuſt Meaſure ſhalt thou haue, that thy dayes may be lengthened in the land which the Lord thy God giueth thee.</p>
+               <p>For all that doe ſuch thinges, and all that doe vnrigh<g ref="char:EOLhyphen"/>teouſly, are abhomination vnto the Lord thy God.</p>
+            </div>
+            <div type="part">
+               <head>OF SWEARING.</head>
+               <p>THOV ſhalt not take the name of the Lord thy God in vaine,<note place="margin">Exo. 20, 7. Deut. 5, 11.</note> for the Lord will not hold him giltles, that taketh his name in vaine.</p>
+               <p>Alſo, ye ſhall not ſweare by my name falſely,<note place="margin">Leui, 19, 12.</note> neither ſhalt thou defile the name of thy God: I am the Lord.</p>
+               <p>Let none of you imagine euyll in your hartes a<g ref="char:EOLhyphen"/>gainſt his neighbour, and loue no falſe oth:<note place="margin">Zecha. 8, 17.</note> for all theſe are the thinges that I hate, ſayth the Lord.</p>
+               <p>
+                  <pb facs="tcp:9684:27"/>
+                  <note place="margin">Pſal. 15, 4.</note>In whoſe eyes a vile perſon is contemned: but he honoureth them that feareth the Lord. He that ſweareth to his owne hinderaunce, and changeth not.</p>
+               <p>
+                  <note place="margin">Ier. 5, 2.</note>Though they ſay, The Lord liueth, yet doe they ſweare falſely.</p>
+               <p>
+                  <note place="margin">Eccle. 23, 11.</note>A man that vſeth much Swearing, ſhalbe filled with wickednes, and the plague ſhal neuer go from his houſe: when he ſhall offende, his fault ſhalbe vpon him; and yf he knowledge not his ſinne, he maketh a double offence: and yf he ſweare in vayne, he ſhall not be innocent, but his houſe ſhall be full of plagues.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">Ecclu. 23, 13</note>VSE not thy mouth to ignorant raſhneſſe, or inor<g ref="char:EOLhyphen"/>dinate Swearing: for therein is the occaſion of ſinne.</p>
+               <p>
+                  <note place="margin">Math. 5, 33, 34, 35, 36, 37</note>Ye haue heard that it is ſayd to them of olde time, Thou ſhalt not forſweare thy ſelfe, but ſhalt per<g ref="char:EOLhyphen"/>forme thine othes to the Lord.</p>
+               <p>But I ſay vnto you, Sweare not at all, neither by heauen, for it is the throne of God:</p>
+               <p>Nor yet by the earth: for it is his footeſtoole: neither by Ieruſalem: for it is the citie of the great King.</p>
+               <p>Neither ſhalt thou ſweare by thine head, becauſe thou canſt not make one haire white or blacke.</p>
+               <p>But let your communication be, Yea, yea: Nay, nay. For whatſoeuer is more then theſe, commeth of euyll.</p>
+               <p>
+                  <pb facs="tcp:9684:27"/>But before all thinges, my brethren, Sweare not,<note place="margin">Iam. 5, 12.</note> nei<g ref="char:EOLhyphen"/>ther by heauen, nor by earth, nor by any other othe: but let your yea be yea, and your nay, nay, leaſt ye fall into condemnation.</p>
+               <p>Accuſtome not thy mouth to Swearing,<note place="margin">Ecclu. 23, 9.</note> for in it there are many faultes: neither take vp for a cuſtome the naming of the holy one: for thou ſhalt not be vnpu<g ref="char:EOLhyphen"/>niſhed for ſuch thinges.</p>
+            </div>
+            <div type="part">
+               <head>OF LYING.</head>
+               <p>YE are of your father the Deuill,<note place="margin">Iohn. 8, 44.</note> and the luſtes of your father ye will doe: He hath been a murtherer from the beginning, and abode not in the trueth, becauſe there is no trueth in him. When he ſpeaketh a lie, then ſpeaketh he of his owne: for he is a lyar, and the father thereof.</p>
+               <p>They haue ſharpened their tongues lyke a Ser<g ref="char:EOLhyphen"/>pent: Adders poyſon is vnder their lippes.<note place="margin">Pſal. 140, 3.</note>
+               </p>
+               <p>Take from me the way of Lying:<note place="margin">Pſal. 119, 29</note> and graunt me graciouſly thy law.</p>
+               <p>A faythfull witneſſe will not lye:<note place="margin">Pro. 14, 5.</note> but a falſe re<g ref="char:EOLhyphen"/>corde will ſpeake lyes.</p>
+               <p>A falſe witneſſe ſhall not be vnpuniſhed,<note place="margin">Pro. 19, 5.</note> and he that ſpeaketh lyes ſhall not eſcape.</p>
+               <p>Now therefore, beholde,<note place="margin">1. kin. 22, 23.</note> the Lord hath put a lying ſpirit in the mouth of all theſe thy Prophets, and the Lord hath appoynted euyll againſt thee.</p>
+               <p>The Lord ſhall haue no pleaſure in their young men,<note place="margin">Eſa. 9, 17.</note> neither will he haue compasſion of the fa<g ref="char:EOLhyphen"/>therles
+<pb facs="tcp:9684:28"/>
+and their widowes: for euery one is an hy<g ref="char:EOLhyphen"/>pocrite, and wicked, and euery mouth ſpeaketh follie.</p>
+               <p>
+                  <note place="margin">Iob, 13, 4.</note>For in deede ye forge lyes, and all you are phiſi<g ref="char:EOLhyphen"/>tians of no value.</p>
+               <p>
+                  <note place="margin">Pro. 17, 4.</note>The wicked geueth heede to falſe lippes, and a lyar harkeneth to the naughtie tongue.</p>
+               <p>
+                  <note place="margin">Eſa. 19, 14.</note>The Lord hath mingled among them the ſpirits of errours, and they haue cauſed Egypt to erre in euery worke thereof, as a drunken man erreth in his vomyte.</p>
+               <p>
+                  <note place="margin">Pro. 12, 22.</note>The lying lippes are an abhomination to the Lord: but they that deale truely, are his delight.</p>
+               <p>
+                  <note place="margin">Pſal. 120, 2.</note>Deliuer my ſoule, O Lord, from lying lippes, and from a deceitfull tongue.</p>
+               <p>
+                  <note place="margin">Act. 5, 3, 4.</note>
+                  <hi>Ananias,</hi> why hath Satan filled thine hart, that thou ſhouldeſt lie vnto the holy Ghoſt, and keepe away part of the price of the poſſesſion?</p>
+               <p>Whiles it remayned, appertained it not vnto thee? and after it was ſolde, was it not in thine owne power? How is it that thou haſt conceiued this thing in thine hart? thou haſt not lyed vnto men, but vnto God.</p>
+               <p>
+                  <note place="margin">Eccle. 20, 23, 24.25.</note>A lye is a wicked ſhame in a man: yet it is oft in the mouth of the vnwyſe.</p>
+               <p>A theefe is better, then a man that is accuſtomed to lye: but they both ſhall haue deſtruction to he<g ref="char:EOLhyphen"/>ritage.</p>
+               <p>The conditions of lyars are vnhoneſt, and their ſhame is euer with them.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:28"/>
+               <head>EXHORTATION.</head>
+               <p>CAst off lying,<note place="margin">Ephe. 4, 25.</note> and ſpeake euery man trueth vnto his neighbour: for we are members one of another.</p>
+               <p>Lye not one to another,<note place="margin">Collo. 3, 9.</note> ſeeing that ye haue put off the olde man, with his workes.</p>
+               <p>Bleſſed is the man that maketh the Lord his truſt,<note place="margin">Pſal. 40, 4.</note> and regardeth not the proude, nor ſuch as turne aſide to lyes.</p>
+               <p>Sowe not a lye againſt thy brother,<note place="margin">Ecclus. 7, 12.</note> nor doe the ſame againſt thy friende.</p>
+               <p>Theſe are the thinges that ye ſhall doe,<note place="margin">Zecha. 8, 16.</note> Speake ye euery man the trueth vnto his neighbour: execute iudge<g ref="char:EOLhyphen"/>ment truely, and vprightly in your gates.</p>
+               <p>Keepe thy tongue from euyll,<note place="margin">Pſal. 34, 13.</note> and thy lippes that they ſpeake no guyle.</p>
+               <p>Vſe not to make any maner of lye:<note place="margin">Ecclus. 7, 13.</note> for the cuſtome thereof is not good.</p>
+               <p>If any man long after life, and to ſee good dayes,<note place="margin">
+                     <hi>1.</hi> Pet. 3, 10.</note> let him refraine his tongue from euyll, and his lippes that they ſpeake no guyle.</p>
+            </div>
+            <div type="part">
+               <head>OF BACKBITERS <hi>and Tale-bearers.</hi>
+               </head>
+               <p>THOV ſhalt not walke about with Tales among the people.<note place="margin">Leui. 19, 16.</note> Thou ſhalt not ſtande a<g ref="char:EOLhyphen"/>gainſt the blood of thy neighbour: I am the Lord.</p>
+               <p>A Backbiter defileth his owne ſoule,<note place="margin">Ecclu. 21, 28</note> and is hated
+<pb facs="tcp:9684:29"/>
+whereſoeuer he is: But he that keepeth his tongue and is diſcreet, ſhall come to honour.</p>
+               <p>
+                  <note place="margin">Pro. 18, 8. &amp; 26, 22.</note>The wordes of a Tale-bearer are as flatterings, and they goe downe into the bowels of the belly.</p>
+               <p>
+                  <note place="margin">Pro. 11, 13.</note>He that goeth about as a Slanderer, diſcouereth a ſecret: but he that is of a faythfull hart, concealeth a matter.</p>
+               <p>
+                  <note place="margin">Pſal. 140, 11.</note>The Backbiter ſhall not be eſtabliſhed vpon the earth: euyll ſhall hunt the cruell man to deſtructi<g ref="char:EOLhyphen"/>on.</p>
+               <p>
+                  <note place="margin">Eccle. 10, 11.</note>If the Serpent bite when he is not charmed, no better is a Babler.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">Eccle. 28, 13.</note>ABhorre the Slanderer and double tongued: for ſuch haue deſtroyed many that were at peace.</p>
+               <p>
+                  <note place="margin">Eccle. 5, 15.</note>Be not counted a Tale-bearer, and lie not in wayte with thy tongue: for ſhame and repentance folowe the theefe, and an euyll condemnation is ouer him that is double tongued: But he that is a Backbiter ſhalbe hated, enuied, and confounded.</p>
+               <p>
+                  <note place="margin">Pſal. 15, 3.</note>Lord, Who ſhall dwell in thy Tabernacle? &amp;c.</p>
+               <p>He that ſlandereth not with his tongue, nor doth euyll to his neighbour, nor receiueth a falſe report againſt his neighbour.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:29"/>
+               <head>OF SCORNING <hi>and Mocking.</hi>
+               </head>
+               <p>A Scorner ſeeketh wiſedome, and findeth it not:<note place="margin">Pro. 14, 6.</note> but knowledge is eaſie to him that will vn<g ref="char:EOLhyphen"/>derſtand.</p>
+               <p>The wicked thought of a foole is ſinne,<note place="margin">Pro. 24, 9.</note> and the Scorner is an abhomination vnto men.</p>
+               <p>When the Scorner is puniſhed,<note place="margin">Pro. 19, 25. &amp; 21, 11.</note> the fooliſh is wiſe: and when one inſtructeth the wiſe, he will receiue knowledge.</p>
+               <p>With the ſcornefull he ſcorneth,<note place="margin">Pro. 3, 34.</note> but geueth grace to the humble.</p>
+               <p>O Lord, thou haſt deceiued me,<note place="margin">Ier. 20, 7.</note> and I am de<g ref="char:EOLhyphen"/>ceiued: thou art ſtronger then I, and haſt preuay<g ref="char:EOLhyphen"/>led: I am in deriſion dayly, euery one mocketh me.</p>
+               <p>The Sonne of man came eating and drinking,<note place="margin">Mat. 11, 19.</note> and they ſay, Beholde a glutton, and a drinker of wine, a friende vnto Publicans and Sinners: but wiſedome is iuſtified of her children.</p>
+               <p>The eye that mocketh his father,<note place="margin">Pro. 30, 17.</note> and deſpiſeth the inſtruction of his mother, let the Rauens of the valley plucke it out, and the young Eagles eate it.</p>
+               <p>He that reproueth a Scorner,<note place="margin">Pro. 9, 7.</note> purchaſeth to him<g ref="char:EOLhyphen"/>ſelfe ſhame: and he that rebuketh the wicked, get<g ref="char:EOLhyphen"/>teth himſelfe a blot.</p>
+               <p>And others mocked, and ſayd,<note place="margin">Act. 2, 13.</note> They are full of new wine.</p>
+               <p>And the people ſtoode and beholde,<note place="margin">Luk. 23, 35.</note> and the
+<pb facs="tcp:9684:30"/>
+Rulers mocked him with them, ſaying, He ſaued others, let him ſaue him ſelfe, yf he be the Chriſt, the choſen of God.</p>
+               <p>
+                  <note place="margin">Luk. 24, 36.</note>The Souldiers alſo mocked him, and came and offered him vineger.</p>
+               <p>
+                  <note place="margin">Iob. 12, 4.</note>I am as one mocked of his neighbour, who cal<g ref="char:EOLhyphen"/>leth vpon God, and he heareth him: The iuſt and the vpright is laughed to ſcorne.</p>
+               <p>
+                  <note place="margin">Pro. 13, 12.</note>A Scorner loueth not him that rebuketh him, neither will he goe vnto the wiſe.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">Ecclu. 7, 11.</note>LAugh no man to ſcorne in the heauines of his ſoule: for God which ſeeth all things, is he that can bring downe, and ſet vp againe.</p>
+               <p>
+                  <note place="margin">Pro. 13, 1.</note>A wiſe ſonne will obey the inſtruction of his father: but a ſcorner will heare no rebuke.</p>
+               <p>
+                  <note place="margin">Pro. 1, 22.</note>O ye fooliſh, how long will ye loue fooliſhnes? and the ſcornefull take their pleaſure in ſcorning, and the fooles hate knowledge.</p>
+               <p>
+                  <note place="margin">Pro. <hi>17,</hi> 5.</note>He that mocketh the poore, reprocheth him that made him: and he that reioceth at deſtruction, ſhall not be vnpuniſhed.</p>
+               <p>
+                  <note place="margin">Pro. 9, 8.</note>Rebuke not a ſcorner, leaſt he hate thee: but rebuke a wiſe man, and he will loue thee.</p>
+               <p>
+                  <note place="margin">Pſal. 14, 6.</note>You haue made a mocke at the counſayle of the poore, becauſe the Lord is his truſt.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:30"/>
+               <head>OF ANGER AND WRATH.</head>
+               <p>AN Angrie man ſtirreth vp ſtrife:<note place="margin">Pro. 15, 18.</note> but he that is ſlow to wrath, appeaſeth ſtrife.</p>
+               <p>He that is ſlow to Anger,<note place="margin">Pro. 16, 32.</note> is better then the mightie man: and he that ruleth his owne minde, is better then he that winneth a citie.</p>
+               <p>An Angrie man ſtyrreth vp ſtrife,<note place="margin">Pro. 29, 22.</note> and a furious man aboundeth in tranſgresſion.</p>
+               <p>The diſcretion of a man deferreth his anger;<note place="margin">Pro. 19, 11.</note> and his glorie is, to paſſe by an offence.</p>
+               <p>There is not a more wicked head,<note place="margin">Ecclu. 25, 17 18, 19, 20.</note> then the head of a Serpent: and there is no Wrath aboue the Wrath of an enemie.</p>
+               <p>I had rather dwell with a Lyon and Dragon, then to keepe houſe with a wicked wyfe.</p>
+               <p>The wickednes of a woman changeth her face, and maketh her countenance blacke as a ſacke.</p>
+               <p>Her huſband is ſitting amongſt his neighbours, becauſe of her he ſigheth ſore or he beware.</p>
+               <p>It is better to dwel in the wilderneſſe,<note place="margin">Pro. 21, 19.</note> then with a contentious and angrie woman.</p>
+               <p>He that is haſtie to Anger, committeth follie:<note place="margin">Pro. 14, 17.</note> and a buſie body is hated.</p>
+               <p>As the matter of the fire is, ſo it burneth;<note place="margin">Ecclu. 28, 10</note> and mans anger is according to his power: and accor<g ref="char:EOLhyphen"/>ding to his riches his anger increaſeth; and the more vehement the anger is, the more is he infla<g ref="char:EOLhyphen"/>med.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:31"/>
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">Eccle. 7, 11.</note>BE not thou of an haſtie ſpirit, to be angrie: for anger reſteth in the boſome of fooles.</p>
+               <p>
+                  <note place="margin">Pſal. 37, 8.</note>Ceaſe from Anger, and leaue of Wrath: fret not thy ſelfe alſo to doe euyll.</p>
+               <p>
+                  <note place="margin">Ephe. 4, 26.</note>Be angrie, but ſinne not: Let not the Sunne goe downe vpon your wrath.</p>
+               <p>
+                  <note place="margin">Ecclu. 8, 16.</note>Striue not with him that is angrie, and goe not with him into the wildernes: for blood is nothing in his ſight: And where there is no helpe, he will ouer<g ref="char:EOLhyphen"/>throw thee.</p>
+               <p>
+                  <note place="margin">Pro. 22, 24, 25.</note>Make no friendſhyp with an angrie man, neither goe with the furious man,</p>
+               <p>Leaſt thou learne his wayes, and receiue deſtruction to thy ſoule.</p>
+               <p>
+                  <note place="margin">Math. 5, 22.</note>I ſay vnto you, Whoſoeuer is angrie with his brother vnaduiſedly, ſhalbe culpable of iudgement. And whoſoeuer ſayth vnto his brother, Raca, shalbe worthy to be punished by the counſell. And whoſo<g ref="char:EOLhyphen"/>euer shall ſay, Foole, shalbe worthy to be punished with hell fire.</p>
+            </div>
+            <div type="part">
+               <head>OF ENVIE, HATRED, <hi>and Strife.</hi>
+               </head>
+               <p>
+                  <note place="margin">Eccle. 14, 8.</note>THE enuious man hath a wicked looke: hee turneth away his face, and enuieth men.</p>
+               <p>
+                  <note place="margin">Ecclu. 30, 24</note>Enuie and Wrath ſhorten the lyfe: and carefulnes bringeth age before the time.</p>
+               <p>
+                  <pb facs="tcp:9684:31"/>Eate not the bread of him that hath an euyll eye,<note place="margin">Pro. 23, 6, 7.</note> neither deſire his dayntie meates:</p>
+               <p>For as though he thought it in his hart, ſo will he ſay vnto thee, Eate and drinke: but his hart is not with thee.</p>
+               <p>As the coale maketh burning coales,<note place="margin">Pro. 26, 21, 26, 24.</note> and wood a fire: ſo the contentious man is apt to kindle ſtrife.</p>
+               <p>Hatred may be couered by deceit: but the ma<g ref="char:EOLhyphen"/>lice thereof ſhalbe diſcouered in the congrega<g ref="char:EOLhyphen"/>tion.</p>
+               <p>He that hateth, will counterfeit with his lips, but in his hart he layeth vp deceit.</p>
+               <p>Better is a dry morſell, if peace be with it,<note place="margin">Pro. 17, 1.</note> then an houſe full of ſacrifices with ſtrife.</p>
+               <p>It is a mans honour to ceaſe from ſtrife:<note place="margin">Pro 20, 3.</note> but euery foole wilbe medling.</p>
+               <p>Where enuying and ſtrife is, there is ſedition,<note place="margin">Iam. 3, 16.</note> and all maner of euyll workes.</p>
+               <p>Neither will I haue to doe with conſuming en<g ref="char:EOLhyphen"/>uie,<note place="margin">Wiſd. 6, 23.</note> for ſuch a man ſhall not be pertaker of wiſe<g ref="char:EOLhyphen"/>dome.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>LEt vs not be deſirous of vayne glorie,<note place="margin">Galla. 5, 26.</note> prouoking one another, enuying one another.</p>
+               <p>Thou ſhalt not hate thy brother in thine hart:<note place="margin">Leui. 19, 17.</note> but thou ſhalt playnely rebuke thy neighbour, and ſuf<g ref="char:EOLhyphen"/>fer him not to ſinne.</p>
+               <p>Should a man beare hatred againſt a man,<note place="margin">Eccle. 28, 3.</note> and deſire
+<pb facs="tcp:9684:32"/>
+forgiueneſſe of the Lord.</p>
+               <p>Beware of Strife, and thou ſhalt make thy ſinnes fewer: for an angrie man kindleth Strife.</p>
+               <p>
+                  <note place="margin">2. Tim. 2.23</note>Put away foolyſh and vnlearned queſtions, knowing that they ingender Strife.</p>
+               <p>
+                  <note place="margin">Rom. 13, 13.</note>So that we walke honeſtly, as in the day, not in glutto<g ref="char:EOLhyphen"/>nie and drunkenneſſe, neither in chambering or wantonneſſe, nor in ſtrife and enuying.</p>
+            </div>
+            <div type="part">
+               <head>OF SLOVTH AND IDLENES.</head>
+               <p>
+                  <note place="margin">Pro. 26, 15.</note>THE Slouthfull hideth his hand in his bo<g ref="char:EOLhyphen"/>ſome, and it greeueth him to put it agayne to his mouth.</p>
+               <p>
+                  <note place="margin">Pro. 18, 9,</note>He that is ſlouthfull in his worke, is euen the brother of him that is a great waſter.</p>
+               <p>
+                  <note place="margin">Pro. 19, 15.</note>Slouthfulneſſe cauſeth to fall a ſleepe, and a de<g ref="char:EOLhyphen"/>ceitfull perſon ſhalbe affamyſhed.</p>
+               <p>
+                  <note place="margin">Pro. 21, 25.</note>The deſire of the ſlouthfull, ſlayeth him: for his handes refuſe to worke.</p>
+               <p>
+                  <note place="margin">Pro. 20, 4.</note>The ſlouthfull will not plough becauſe of win<g ref="char:EOLhyphen"/>ter: therefore ſhall he begge in Sommer, but haue nothing.</p>
+               <p>
+                  <note place="margin">Pro. 12, 11.</note>He that tilleth his Land, ſhalbe ſatisfied with bread: but he that foloweth the Idle, is deſti<g ref="char:EOLhyphen"/>tute of vnderſtanding.</p>
+               <p>
+                  <note place="margin">Eccl. 10, 17</note>Seeke not excuſes when thou ſhouldeſt do thy worke, neither be aſhamed therof through pride, in time of aduerſitie.</p>
+               <p>
+                  <note place="margin">Eccl. 22, 1, 2.</note>A ſlouthfull man is lyke a fylthy Stone, which
+<pb facs="tcp:9684:32"/>
+euery man mocketh at for his ſhame.</p>
+               <p>A ſlouthful man is to be compared to the doung of Oxen: and euery one that taketh it vp, wil ſhake it out of his hand.</p>
+               <p>By ſlouthfulneſſe the roofe of the houſe goeth to decay: and by the idleneſſe of the handes,<note place="margin">Eccl. 10, 18</note> the houſe droppeth through.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>MY Sonne, in all thy workes be quicke,<note place="margin">Eccl. 31, 22</note> ſo ſhall there no ſickneſſe come vnto thee.</p>
+               <p>Goe to the Piſmyre, O Sluggarde, Beholde her wayes,<note place="margin">Pro. 6, 6, 7, 8, 9, 10.</note> and be wyſe.</p>
+               <p>Be not ſlouthfull to do ſeruice, feruent in ſpirit,<note place="margin">Rom. 12, 11.</note> ſeruing the Lord.</p>
+               <p>When we were with you, this we warned you off,<note place="margin">2. Theſ. 3, 10, 11, 12.</note> That yf there were any which would not worke, that he ſhould not eate.</p>
+               <p>For wee heard, that there are ſome which walke among you inordinately, and worke not at all, but are buſie bodyes.</p>
+               <p>Therefore, them that are ſuch, we commaund and ex<g ref="char:EOLhyphen"/>hort by our Lord Ieſus Chriſt, that they worke with quietnes, and eate their owne bread.</p>
+               <p>And that ye ſtudie to be quiet,<note place="margin">1. Theſ. 4, 11.</note> and to meddle with your owne buſines, and to worke with your owne handes, as we commaunde you.</p>
+               <p>Ye know that theſe handes haue miniſtred vnto my neceſſities, and to them that were with me.<note place="margin">Act. 20, 34.</note>
+               </p>
+               <p>
+                  <pb facs="tcp:9684:33"/>
+                  <note place="margin">1. Cor. 4, 12.</note>And labour, working with our owne handes: we are reuiled, and yet we bleſſe: we are perſecuted, and ſuffer it.</p>
+               <p>
+                  <note place="margin">1. Theſ. 2, 9.</note>For ye remember, brethren, our labour and trauaile: for we laboured day and nyght, becauſe we woulde not be chargeable vnto any of you, and preached vnto you the Goſpel of God.</p>
+            </div>
+            <div type="part">
+               <head>OF THE TONGVE, <hi>and euyll ſpeaking.</hi>
+               </head>
+               <p>
+                  <note place="margin">Iam. 3, 2, 5, 6, 8.</note>IN many thinges we ſinne all. If any man ſinne not in worde, he is a perfect man, and able to bridle all the body.</p>
+               <p>The Tongue is a litle member, and boſteth of great thinges: beholde how great a thing a litle fire kindleth.</p>
+               <p>The Tongue is fire, yea a worlde of wickednes: So is the Tongue ſet amongſt our members, that it defileth the whole body, and ſetteth on fire the courſe of nature, and it is ſet on fire of hell.</p>
+               <p>The Tongue can no man tame. It is an vnrulie euyll, full of deadly poyſon.</p>
+               <p>
+                  <note place="margin">Eccle. 5, 14.</note>Honour &amp; ſhame is in the talke, and the Tongue of a man cauſeth him to fall.</p>
+               <p>
+                  <note place="margin">Pro. 12, 13.</note>The euill man is ſnared by the wickednes of his lyppes: but the iuſt ſhall come out of aduer<g ref="char:EOLhyphen"/>ſitie.</p>
+               <p>
+                  <note place="margin">Pro. 13, 2.</note>A man ſhall eate good thinges by the fruite of his mouth: but the ſoule of the treſpaſſers, ſhall ſuffer violence.</p>
+               <p>
+                  <pb facs="tcp:9684:33"/>He that keepeth his mouth, keepeth his lyfe:<note place="margin">Pro. 13, 3.</note> but he that openeth his lyppes, deſtruction ſhalbe to him.</p>
+               <p>A falſe Tongue hateth the afflicted,<note place="margin">Pro. 26, 28.</note> and a flat<g ref="char:EOLhyphen"/>tering mouth cauſeth ruine.</p>
+               <p>No conſtancie is in their mouth:<note place="margin">Pſal. 5, 9.</note> within they are very corrupt: their throate is an open Sepul<g ref="char:EOLhyphen"/>cher, and they flatter with their tongues.</p>
+               <p>The ſtroke of the rodde maketh markes in the fleſh:<note place="margin">Eccle. 28, 17, 18, 19.</note> but the ſtroke of the Tongue breaketh the bones.</p>
+               <p>There be many that haue periſhed by the edge of the ſworde: but not ſo many as haue fallen by the tongue.</p>
+               <p>Well is him that is kept from an euyll tongue, and commeth not in the anger therof, which hath not drawen in that yoke, neither hath been bound in the bandes thereof.</p>
+               <p>The man that is accuſtomed to opprobrious wordes,<note place="margin">Ecclu. 23, 15</note> will neuer be reformed all the dayes of his lyfe.</p>
+               <p>Well is him that dwelleth with a wife of vn<g ref="char:EOLhyphen"/>derſtandyng,<note place="margin">Ecclus. 25, 8.</note> and that hath not fallen with his tongue, and that hath not ſerued ſuch as are vnwor<g ref="char:EOLhyphen"/>thy of hym.</p>
+               <p>Bleſſed is the man that hath not fallen by the worde of his mouth,<note place="margin">Ecclus. 14, 1.</note> and is not tormented with the ſorrow of ſinne.</p>
+               <p>He that refrayneth his tongue,<note place="margin">Ecclu. 19, 6.</note> may lyue with a troubleſome man: and he that hateth babling, ſhall haue leſſe euyll.</p>
+               <p>
+                  <pb facs="tcp:9684:34"/>
+                  <note place="margin">Ecclu. 19, 16</note>A man falleth with his Tongue, but not with his will: and who is he that hath not offended in his Tongue?</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">
+                     <hi>1.</hi> Pet. 3, 10.</note>IF a man long after lyfe, and to ſee good dayes, let him refrayne his Tongue from euyll, and his lippes that they ſpeake no guyle.</p>
+               <p>
+                  <note place="margin">Ephe. 4, 31.</note>Let all bitterneſſe, and anger, and wrath; rayling and euyll ſpeaking, be put away from you, with all mali<g ref="char:EOLhyphen"/>ciouſneſſe.</p>
+               <p>
+                  <note place="margin">Ephe. 5, 4.</note>Neither filthyneſſe, neither fooliſh talking, neither ieſting, which are thinges not comely, but rather geuing of thankes.</p>
+               <p>
+                  <note place="margin">Eccle. 28, 25, 26.</note>Binde vp thy ſiluer and golde, and weigh thy wordes in a balance, and make a doore and a barre, and a ſure brydle for thy mouth.</p>
+               <p>Beware that thou ſlyde not by it, and ſo fall before him that lyeth in wayte, and thy fall be incureable, euen vnto death.</p>
+               <p>
+                  <note place="margin">1. Pet. 4, 11.</note>If any man ſpeake, let him talke as the wordes of God.</p>
+               <p>
+                  <note place="margin">Pro. 4, 24.</note>Put away from thee a froward mouth, and put wicked lyppes farre from thee.</p>
+               <p>
+                  <note place="margin">Collo. 3, 8.</note>Now put ye away euen all theſe thinges, wrath, anger, maliciouſnes, curſed ſpeaking, filthy ſpeaking, out of your mouth.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:34"/>
+               <head>OF FAIGNED FRIENDES <hi>and Friendſhyp.</hi>
+               </head>
+               <p>LET euery one take heede of his neighbour,<note place="margin">Ier. 9, 4.</note> and truſt you not in any brother: for euery brother wyll vſe deceipt, and euery Frinde wyll deale deceitfully.</p>
+               <p>Some man is a Friende for his owne occaſion,<note place="margin">Ecclus. 6, 8, 9, 10, 11, 12.</note> and wyll not abide in the day of thy trouble.</p>
+               <p>And there is ſome Friende that turneth to en<g ref="char:EOLhyphen"/>mitie, and taketh part againſt thee, and in conten<g ref="char:EOLhyphen"/>tion he wyll declare thy ſhame.</p>
+               <p>Againe, ſome Friend is but a companion at thy table, and in the day of thy affliction he continu<g ref="char:EOLhyphen"/>eth not:</p>
+               <p>But in thy proſperitie he wylbe as thou thy ſelfe, and wyll vſe libertie ouer thy ſeruantes.</p>
+               <p>If thou be brought low, he wylbe agaynſt thee, and wyll hide him ſelfe from thy face.</p>
+               <p>Euery Friend ſayth, I am a Friend vnto him alſo:<note place="margin">Ecclus. 37, 1, 2, 3, 4, 5.</note> but there is ſome Friend, which is onely a Friend in name.</p>
+               <p>Remaineth there not heauines vnto death, when a companion &amp; Friend is turned to an enemie?</p>
+               <p>There is ſome companion which in proſperitie reioyceth with his Friend: but in the time of trou<g ref="char:EOLhyphen"/>ble is againſt him.</p>
+               <p>There is ſome companion that helpeth his Friend for the bellies ſake, and taketh vp the buc<g ref="char:EOLhyphen"/>kler againſt the enemie.</p>
+               <p>
+                  <pb facs="tcp:9684:35"/>
+                  <note place="margin">Pro. 27, 10.</note>Thine owne friende, and thy fathers friende, forſake thou not; neyther enter into thy brothers houſe in the day of thy calamitie: for bettet is a neighbour that is neare, then a brother farre off.</p>
+               <p>
+                  <note place="margin">Ecclu. 27, 16</note>Who ſo diſcouereth ſecrets, looſeth his credite, and findeth no friend after his will.</p>
+               <p>
+                  <note place="margin">Ecclu. 6, 1.</note>Be not of a friend, thy neighbours enemie: for ſuch ſhall haue an euyll name, ſhame, and reproch: and he ſhall be in infamie as the wicked, that hath a double tongue.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <note place="margin">Ecclu, 6, 7.</note>IF thou getteſt a Friend, proue him firſt; and be not haſtie to credite him.</p>
+               <p>
+                  <note place="margin">Ecclu. 27, 17</note>Loue thy Friende, and be faythfull vnto him: but yf thou bewrayeſt his ſecretes, thou ſhalt not get him againe.</p>
+               <p>
+                  <note place="margin">Pro. 18, 24.</note>A man that hath Friendes, ought to ſhew himſelfe friendly: for a Friend is nearer then a brother.</p>
+               <p>
+                  <note place="margin">Ecclu. 6, 6, 14, 15, 16, 17</note>Holde Friendſhyp with many; neuertheleſſe haue but one counſaylour of a thouſand.</p>
+               <p>A faythfull Friend is a ſtrong defence; and he that findeth ſuch one, findeth a treaſure.</p>
+               <p>A faythfull Friend ought not to be changed for any thing: and the weight of golde and ſiluer is not to be compared to the goodnes of his fayth.</p>
+               <p>A faythfull Friend is the medicine of lyfe and im<g ref="char:EOLhyphen"/>mortalitie; and they that feare the Lord, ſhall finde him.</p>
+               <p>Who ſo feareth the Lord, ſhall direct his friendshyp
+<pb facs="tcp:9684:35"/>
+aright; and as his owne ſelfe, ſo ſhall his friend be.</p>
+               <p>Giue not ouer thy Friend for any good,<note place="margin">Ecclu. 7, 18.</note> nor thy true brother, for the golde of Ophir.</p>
+               <p>Forget not thy Friend in thy minde,<note place="margin">Ecclu. 37, 6.</note> and thinke vpon him in thy riches.</p>
+               <p>Forſake not an olde Friend;<note place="margin">Eccle. 9, 12.</note> for the new ſhall not be like him: a new Friend is as new wine: when it is olde, thou ſhalt drinke it with pleaſure.</p>
+               <p>Doe good vnto thy Friend before thou die,<note place="margin">Ecclu. 14, 13</note> and accor<g ref="char:EOLhyphen"/>ding to thine abilitie ſtretch out thine hand, and giue him.</p>
+            </div>
+            <div type="part">
+               <head>OF WITCHES <hi>and Sorcerers.</hi>
+               </head>
+               <p>IF a man or woman haue a ſpirit of diuination,<note place="margin">Leui. 20, 27.</note> or ſouth ſaying in them, they ſhall die the death: they ſhall ſtone them to death; their blood ſhalbe vpon them.</p>
+               <p>
+                  <hi>Saul</hi> ſayd vnto his ſeruantes,<note place="margin">1. Sam. 28, 7, 8.</note> Seeke mee a wo<g ref="char:EOLhyphen"/>man that hath a familiar ſpirit, that I may goe to her, and aſke of her. And his ſeruants ſayd to him, Beholde, there is a woman at <hi>En-dor,</hi> that hath a familiar ſpirit.</p>
+               <p>Then <hi>Saul</hi> changed him ſelfe, and put on other rayment, and he went, and two men with him, and they came to the woman by nyght: and he ſayd, I pray thee, coniecture vnto mee by the familiar ſpirit, and bring mee him vp whom I ſhall name vnto thee.</p>
+               <p>
+                  <hi>Ioſiah</hi> alſo tooke away them that had familiar ſpirites, and the ſoothſayers, &amp; the images,<note place="margin">2. kin. 23, 24</note> and the
+<pb facs="tcp:9684:36"/>
+idols, and all the abominations that were eſpyed in the land of Iuda and in Ieruſalem, to performe the wordes of the Law, which were written in the booke of <hi>Hilkiah</hi> the Prieſt, found in the houſe of the Lord.</p>
+               <p>
+                  <note place="margin">Act. 8, 9, 11.</note>And there was in the citie, a certaine man cal<g ref="char:EOLhyphen"/>led <hi>Symon,</hi> which vſed Witchcraft, and bewitched the people of <hi>Samaria,</hi> ſaying, That hee himſelfe was ſome great man.</p>
+               <p>And they gaue heede vnto him, becauſe that of long time he had bewitched them with ſorceries.</p>
+               <p>
+                  <note place="margin">Exod. 12, 11.</note>
+                  <hi>Pharaoh</hi> called alſo for his Wiſe-men and Sor<g ref="char:EOLhyphen"/>cerers: and thoſe Charmers alſo of <hi>Egypt</hi> did in lyke maner with their enchauntmentes.</p>
+               <p>
+                  <note place="margin">1. Sam. 28, 3.</note>And <hi>Saul</hi> had put away the Sorcerers &amp; Sooth<g ref="char:EOLhyphen"/>ſayers out of the land.</p>
+               <p>
+                  <note place="margin">Act. 13, 6.</note>When they had gone throughout the Ile vnto <hi>Paphus,</hi> they found a certaine Sorcerer a falſe Pro<g ref="char:EOLhyphen"/>phet, being a Iew, named <hi>Barieſus.</hi>
+               </p>
+               <p>
+                  <note place="margin">Act. 19, 13, 16.</note>Certayne of the vagabonde Iewes, exorciſts, tooke in hand to name ouer them which had euyll ſpirites, the name of the Lord Ieſus, ſaying, Wee adiure you by Ieſus, whom <hi>Paul</hi> preacheth.</p>
+               <p>And the man in whom the euyll ſpirit was, ran on them, and ouercame them, and preuayled agaynſt them, ſo that they fled out of that houſe naked, and wounded.</p>
+               <p>
+                  <note place="margin">
+                     <hi>Wiſd.</hi> 17, 7.</note>And the illuſions of the Magicall artes were brought downe, and it was a moſt ſhamefull re<g ref="char:EOLhyphen"/>proch, for the boaſting of their knowledge.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:36"/>
+               <head>EXHORTATION.</head>
+               <p>
+                  <hi>YE</hi> ſhall not regard them that worke with Spi<g ref="char:EOLhyphen"/>rites, neither Soothſayers:<note place="margin">Leui. 19, 31.</note> ye ſhall not ſeeke to them, to be defiled by them: I am the Lord your God.</p>
+               <p>If any turne after ſuch as worke with Spirits,<note place="margin">Leui. 20, 6.</note> and after Soothſayers, to goe a whooring after them, then will I ſet my face againſt that perſon, and will cut him off from among his people.<note place="margin">Deut. 18, 10, 11, 12.</note>
+               </p>
+               <p>Let none be found among you that maketh his ſonne or his daughter to goe through the fire, or that vſeth Witchcraft, or a regarder of Times, or a marker of the flying of Fowles, or a Sorcerer,</p>
+               <p>Or a Charmer, or that counſaileth with Spirites, or a Soothſayer, or that asketh counſaile at the dead.</p>
+               <p>For all that doe ſuch thinges, are abomination vnto the Lord: and becauſe of theſe abominations, the Lord thy God doth caſt them out before thee.</p>
+            </div>
+            <div type="part">
+               <head>OF FOOLES.</head>
+               <p>THE way of a Foole is right in his owne eyes: but he that heareth counſayle, is wiſe.<note place="margin">Pro. 12, 15, 16.</note>
+               </p>
+               <p>A Foole in a day ſhalbe knowen by his an<g ref="char:EOLhyphen"/>ger: but he that couereth ſhame, is wiſe.</p>
+               <p>The Foole hath ſayd in his hart,<note place="margin">Pſal. 53, 1.</note> There is no God. They haue corrupted and done abominable wickedneſſe: there is none that doth good.</p>
+               <p>
+                  <pb facs="tcp:9684:37"/>
+                  <note place="margin">Eccle. 19, 11, 12, 28.</note>A Foole trauaileth when he hath heard a thing, as a woman that is about to bring foorth a childe.</p>
+               <p>As an Arrow that ſticketh in ones thygh, ſo is a worde in a Fooles hart.</p>
+               <p>A mans garment, and his exceſſiue laughter, and going, declare what perſon he is.</p>
+               <p>
+                  <note place="margin">Eccle. 27, 13.</note>The talking of Fooles is grecuous, and their ſport is in the pleaſure of ſinne.</p>
+               <p>
+                  <note place="margin">Pro. 14, 15, 16.</note>The foolyſh wyll beleeue euery thyng: but the prudent wyll conſider his ſteppes.</p>
+               <p>A wyſe man feareth, and departeth from euyll: but a Foole rageth, and is careleſſe.</p>
+               <p>
+                  <note place="margin">Pro. 27, 22.</note>Though thou ſhouldeſt bray a Foole in a mor<g ref="char:EOLhyphen"/>ter among wheate, brayed with a peſtle, yet wyll not his foolyſhnes depart from him.</p>
+               <p>
+                  <note place="margin">Eccle. 10, 3, 12, 13.</note>Alſo, when the Foole goeth by the way, his hart fayleth, and he telleth vnto al that he is a foole,</p>
+               <p>The wordes of the mouth of a wyſe man haue grace: but the lippes of a Foole deuoure himſelfe.</p>
+               <p>The beginning of the wordes of his mouth, is foolyſhneſſe: and the later ende of his mouth, is wicked madneſſe.</p>
+               <p>
+                  <note place="margin">Eccle. 21, 14, 16, 18, 19.</note>The inner part of a Foole is lyke a broken veſ<g ref="char:EOLhyphen"/>ſell: he can keepe no knowledge whiles he liueth.</p>
+               <p>The talking of a Foole is like the burthen in the way: but there is comelines in the talke of a wyſe man.</p>
+               <p>As is an houſe deſtroyed, ſo is wiſedome vnto a Foole: and the knowledge of the vnwyſe, is as wordes without order.</p>
+               <p>Doctrine vnto Fooles, is as fetters on the feete,
+<pb facs="tcp:9684:37"/>
+and like manacles vpon the right hand.</p>
+               <p>A Foole lyfteth vp his voyce with laughter:<note place="margin">Ecclu. 21, 20 21, 22, 23, 24</note> but a wiſe man doth ſcarce ſmyle ſecretly.</p>
+               <p>Whoſo deſpiſeth wiſedome and diſcipline,<note place="margin">Wiſd. 3, 11.</note> is miſerable, and their hope is vayne, &amp; their labours are foolyſh, and their worke vnprofitable.</p>
+               <p>All ſuch as regarded not Wiſedome,<note place="margin">Wiſd. 10, 8.</note> had not onely this hurt, that they knewe not the thinges which were good, but alſo left behinde them vnto men, a memoriall of their fooliſhnes; ſo that in the thinges wherein they ſinned, they can not lie hid.</p>
+               <p>Foolyſh men will not take holde vpon her:<note place="margin">Ecclu. 15, 7.</note> but ſuch as haue vnderſtanding, will meete her: the ſinners will not ſee her.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>DEpart from the Fooliſh man,<note place="margin">Pro. 14, 7, 9.</note> when thou perceiueſt not in him the lippes of knowledge.</p>
+               <p>The Foole maketh a mocke of ſinne: but among the righteous, there is fauoure.</p>
+               <p>Vnto the Horſe belongeth a whipp,<note place="margin">Pro. 26, 3, 4.5.</note> to the Aſſe a bri<g ref="char:EOLhyphen"/>dle; and a rodde to the Fooles backe.</p>
+               <p>Anſwere not a Foole according to his fooliſhnes, leaſt thou alſo be like him.</p>
+               <p>Anſwere a Foole according to his fooliſhnes, leaſt he be wiſe in his owne conceit.</p>
+               <p>Take no counſayle at a Foole,<note place="margin">Ecclu. 8, 17.</note> for he can not keepe a thing ſecret.</p>
+               <p>Whoſo telleth a Foole of Wiſedome,<note place="margin">Ecclus. 22, 10 11, 12, 13, 14, 15.</note> is as a man which ſpeaketh to one that is a ſleepe: when he hath tolde
+<pb facs="tcp:9684:38"/>
+his tale, he ſayth, What is the matter?</p>
+               <p>
+                  <note place="margin">Pro. 9, 6.</note>Forſake your way ye foolyſh, and ye ſhall lyue: and walke in the way of vnderſtanding.</p>
+            </div>
+            <div type="part">
+               <head>OF WICKED AND EVIL MEN.</head>
+               <p>
+                  <note place="margin">Eſa. 57, 20.</note>THE Wicked are like the raging Sea that can not reſt, whoſe waters caſt vp myre and dyrt.</p>
+               <p>
+                  <note place="margin">Eſa. 59, 7.</note>Their feete runne to euyll, and they make haſte to ſhead innocent blood: their thoughtes are wic<g ref="char:EOLhyphen"/>ked thoughtes; deſolation and deſtruction is in their pathes.</p>
+               <p>
+                  <note place="margin">Ier. 5, 26.</note>Among my people are founde wicked perſons that lay wayte, as he that ſetteth ſnares: they haue made a pit to catch men.</p>
+               <p>
+                  <note place="margin">Pſal. 36, 1, 3, 4.</note>Wickedneſſe ſayth to the wicked man, euen in mine hart, that there is no feare of God before his eyes.</p>
+               <p>The wordes of his mouth are iniquitie and de<g ref="char:EOLhyphen"/>ceit: he hath left off to vnderſtand, and to do good.</p>
+               <p>He imagineth miſchiefe vpon his bed: he ſetteth him ſelfe vpon a way that is not good, and doth not abhor euyll.</p>
+               <p>
+                  <note place="margin">Iob. 24, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11.</note>Some remoue the land markes.</p>
+               <p>They leade away the Aſſe of the fatherles, and take the wydowes Oxe to pledge.</p>
+               <p>They make the poore to turne out of the way.</p>
+               <p>
+                  <note place="margin">Eccle. 9, 3.</note>This is euyll among all that is done vnder the Sunne, that there is one condition to all: and alſo
+<pb facs="tcp:9684:38"/>
+the hart of the ſonnes of men is full of euyll, and madnes is in their hartes whyles they lyue, and af<g ref="char:EOLhyphen"/>ter that they goe to the dead.</p>
+               <p>The way of the wicked is as the darknes:<note place="margin">Pro. 4, 19.</note> they know not wherein they ſhall fall.</p>
+               <p>A wicked ſoule deſtroyeth him that hath it,<note place="margin">Ecclus. 6, 4.</note> and maketh him to be laughed to ſcorne of his ene<g ref="char:EOLhyphen"/>mies, and bringeth him to the portion of the vn<g ref="char:EOLhyphen"/>godly.</p>
+               <p>As they regarde not to know God,<note place="margin">Rom. 1, 28, 29, 30.</note> euen ſo God delyuered them vp vnto a reprobate ſence, to doe thoſe thinges which were not conuenient.</p>
+               <p>Being full of all vnrighteouſnes, fornication, wickednes, couetoſnes, maliciouſnes, full of enuie, of murther, of debate, of deceit, taking all thinges in the euyll part, whiſperers,</p>
+               <p>Backbyters, haters of God, doers of wrong, proude boaſters, inuenters of euyll thinges, diſobe<g ref="char:EOLhyphen"/>dient to parentes, without vnderſtanding, coue<g ref="char:EOLhyphen"/>nant breakers, without naturall affection, ſuch as can neuer be appeaſed, merciles.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>ENter not into the way of the Wicked:<note place="margin">Pro. 4, 14, 15 16, 17, 18.</note> and walke not in the way of euyll men.</p>
+               <p>Auoyde it, and go not by it: turne from it, and paſſe by.</p>
+               <p>For they can not ſleepe, except they haue done euyll, and their ſleepe departeth, except they cauſe ſome to fall.</p>
+               <p>He that imagineth to doe euyll,<note place="margin">Pro. 24, 8.</note> men ſhall call him the authour of wickednes.</p>
+               <p>
+                  <pb facs="tcp:9684:39"/>
+                  <note place="margin">Pro 3, 33.</note>The curſe of the Lord is in the houſe of the wicked: but he bleſſeth the habitation of the righteous.</p>
+               <p>
+                  <note place="margin">Pſal. 5, 4.</note>Thou art not a God that loueth wickedneſſe: neither ſhall euyll dwell with thee.</p>
+               <p>
+                  <note place="margin">Pſal. 7, 15, 16</note>He hath made a pit and digged it, and is falled into the pit that he made.</p>
+               <p>His miſchiefe ſhall returne vpon his owne head, and his crueltie ſhall fall vpon his owne pate.</p>
+               <p>
+                  <note place="margin">Eccle. 4, 20.</note>My Sonne, make much of Time, and eſchew the thing that is euyll.</p>
+               <p>
+                  <note place="margin">Eccle. 7, 1, 2.</note>Doe no euyll, ſo ſhall no harme come vnto thee.</p>
+               <p>Depart from the thing that is wicked, and ſinne. &amp;c.</p>
+               <p>
+                  <note place="margin">Eccle. 15, 11.</note>Say not thou, It is through the Lord that I turne backe: for thou oughteſt not to doe the thinges that he hateth.</p>
+               <p>
+                  <note place="margin">Eccle. 20, 17.</note>The fall of a Pauement is very ſodayne: ſo ſhall the fall of the wicked come haſtely.</p>
+               <p>
+                  <note place="margin">Eccle. 27, 26.27.</note>Whoſo diggeth a pit ſhall fall therein: and he that lay<g ref="char:EOLhyphen"/>eth a ſtone in his neighbous way, ſhal ſtumble there<g ref="char:EOLhyphen"/>on: and he that layeth a ſnare for another, ſhalbe taken in it himſelfe.</p>
+               <p>He that worketh euill, ſhalbe wrapped in euill, and ſhal not know from whence they come vnto him.</p>
+               <p>
+                  <note place="margin">Rom. 12, 9, 21.</note>Abhor that which is euill, and cleaue vnto that which is good.</p>
+               <p>Be not ouercome of euyll: but ouercome euyll with goodneſſe.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:39"/>
+               <head>OF HARDE, STONIE, <hi>and Stubborne hartes.</hi>
+               </head>
+               <p>THey made their hartes as an adamant ſtone,<note place="margin">Zecha. 7, 12</note> leaſt they ſhoulde heare the Law, and the wordes which the Lord of hoſtes ſent in his ſpirit by the miniſterie of the former Prophetes: therefore came there a great wrath from the Lord of hoſtes.</p>
+               <p>O Lord, are not thine eyes vpon the trueth?<note place="margin">Ier. 5, 3.</note> thou haſt ſtriken them, but they haue not ſorowed: thou haſt conſumed them, but they haue refuſed to re<g ref="char:EOLhyphen"/>ceiue correction: they haue made their faces har<g ref="char:EOLhyphen"/>der then a ſtone, and haue refuſed to returne.</p>
+               <p>Make the hart of this people fat,<note place="margin">Eſa 6, 10.</note> make their eares heauie, and ſhut their eyes leaſt they ſee with their eyes, and heare with their eares, and vnderſtande with their hartes, and conuert, and he heale them.</p>
+               <p>I know that thou art obſtinate,<note place="margin">Eſa. 48, 4.</note> and thy necke is an Iron ſinew, and thy brow braſſe.</p>
+               <p>I will hardon <hi>Pharaohs</hi> hart,<note place="margin">Exod. 7, 3, 4.</note> and multiply my myracles and my wonders in the land of Egypt.</p>
+               <p>And <hi>Pharaoh</hi> ſhall not hearken vnto you, that I may lay myne hand vpon Egypt, and bring out mine armies, euen my people the children of Iſra<g ref="char:EOLhyphen"/>el, out of the land of Egypt, by great iudgements.</p>
+               <p>It came of the Lord to harden their hartes that they ſhould come againſt Iſrael in battayle,<note place="margin">Ioſhu. 11, 20.</note> to the intent that they ſhould deſtroy them vtterly, and ſhew them no mercy, but that they ſhould bring
+<pb facs="tcp:9684:40"/>
+them to naught, as the Lord God commaunded <hi>Moſes.</hi>
+               </p>
+               <p>
+                  <note place="margin">Deut. 29, 19</note>So that when he heareth the wordes of this curſe, he bleſſe him ſelfe in his hart, ſaying, I ſhall haue peace, although I walke accordyng to the ſtubbornnes of myne owne hart; thus addyng drunkennes to thirſt.</p>
+               <p>
+                  <note place="margin">Pro 29.1.</note>A man that hardeneth his necke when he is re<g ref="char:EOLhyphen"/>buked, ſhall ſodaynely be deſtroyed, and can not be cured.</p>
+               <p>
+                  <note place="margin">Iob. 21, 14, 15</note>They ſay vnto God, Depart from vs, for we de<g ref="char:EOLhyphen"/>ſire not the knowledge of thy wayes.</p>
+               <p>Who is the Almightie, that we ſhoulde ſerue him? and what profite ſhould we haue, yf we ſhould pray vnto him?</p>
+               <p>
+                  <note place="margin">Eccle. 3, 27, 28, 29.</note>A ſtubborne hart ſhall fare euyll at the laſt: and he that loueth danger, ſhall periſh therein.</p>
+               <p>An hart that goeth two wayes, ſhal not proſper: and he that is froward of hart, ſhall ſtumble therin.</p>
+               <p>An obſtinate hart ſhalbe laden with ſorrowes, and the wicked man ſhall heape ſinne vpon ſinne.</p>
+               <p>
+                  <note place="margin">1. Sam. 16, 7.</note>The Lord ſayd vnto <hi>Samuel,</hi> Looke not on his countenance, nor on the height of his ſtature, be<g ref="char:EOLhyphen"/>cauſe I haue refuſed him: for God ſeeth not as man ſeeth; for man looketh on the outward appearance, but the Lord beholdeth the hart.</p>
+               <p>
+                  <note place="margin">Rom 9, 18.</note>He hath mercy on whom he will, and whom he will he hardeneth.</p>
+               <p>
+                  <note place="margin">Iohn. 12, 40. Mat. 13, 14. Mark. 4, 12. Luk. 8, 10. Act. 28, 26.</note>He hath blinded their eyes, and hardened their hartes, that they ſhould not ſee with their eyes, nor vnderſtand with their hartes, and ſhould be con<g ref="char:EOLhyphen"/>uerted,
+<pb facs="tcp:9684:40"/>
+and I ſhould heale them.</p>
+               <p>Ye ſtiffnecked and of vncircumciſed hartes and eares, ye haue alwayes reſiſted the holy Ghoſt:<note place="margin">Act. 7, 51.</note> as your fathers did, ſo doe you.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>WHerefore as the holy Ghoſt ſayth,<note place="margin">Heb. 3, 7, 12, 13.</note> To day yf ye will heare his voyce, harden not your hartes, as in the prouocation, according to the tentation in the Wilderneſſe.</p>
+               <p>Take heede brethren, leaſt at any time there be in any of you an euyll hart, and vnfaythfull, to depart away from the lyuing God.</p>
+               <p>But exhort one another dayly, whyle it is called To day, leaſt any of you be hardoned through the de<g ref="char:EOLhyphen"/>ceitfulneſſe of ſinne.</p>
+               <p>This day if ye heare his voyce, harden not your hartes.<note place="margin">Heb. 4.7.</note>
+               </p>
+               <p>A new hart will I giue you,<note place="margin">Ezec. 36., 26</note> and a new ſpirit will I put within you; and I will take away the ſtony hart out of your body, and I will giue you a hart of fleſh.</p>
+               <p>And I will giue them one hart,<note place="margin">Ezec. 11, 19.</note> and will put a new ſpirit within their bowelles: and will take the ſtony hart out of their bodyes, and will giue them an hart of fleſh.</p>
+               <p>And I will giue them one hart, and one way,<note place="margin">Ier. 32, 39.</note> that they may feare me for euer, for the wealth of them, and of their children after them.</p>
+               <p>Circumciſe therefore the foreskin of your hart,<note place="margin">Deut. 10, 16</note> and harden your neckes no more.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:9684:41"/>
+               <head>OF THE WORKES OF DARKNES <hi>and workes of the Fleſh.</hi>
+               </head>
+               <p>
+                  <note place="margin">Gen. 6, 5.</note>THE Lord ſaw that the wickedneſſe of man was great in the earth:</p>
+               <p>
+                  <note place="margin">Gen. 8, 21.</note>And all the imaginations of the thoughtes of his hart were onely euyll continually.</p>
+               <p>
+                  <note place="margin">Ephe. 4, 18, 19.</note>Hauing their cogitation darkoned, and being ſtrangers from the lyfe of God, through the igno<g ref="char:EOLhyphen"/>rance that is in them, becauſe of the hardneſſe of their hart:</p>
+               <p>Which being paſt feeling, haue geuen them ſelues vnto wantonneſſe, to worke all vncleanneſſe euen with greedines.</p>
+               <p>
+                  <note place="margin">Rom. 1, 21.</note>Becauſe that when they knew God, they glori<g ref="char:EOLhyphen"/>fied him not as God, neyther were thankfull; but became vayne in their imaginations, and their foo<g ref="char:EOLhyphen"/>lyſh hart was full of darkneſſe.</p>
+               <p>
+                  <note place="margin">Mark. 7, 21, 22.</note>For from within, euen out of the hart of man, proceede euyll thoughtes, adulteries, fornications, murthers, theftes, couetouſneſſe, wickedneſſe, de<g ref="char:EOLhyphen"/>ceit, vncleanneſſe, a wicked eye, backbyting, pride, foolyſhneſſe: All theſe euyll thinges come from within, and defyle a man.</p>
+               <p>
+                  <note place="margin">Gall. 5, 19, 20</note>The workes of the Fleſh are manifeſt, which are adulterie, fornication, vncleannes, wantonnes, idolatrie, witchcraft, hatred, debate, emulations, wrath, contentions, ſeditions, heriſies, enuie, mur<g ref="char:EOLhyphen"/>ther, drunkennes, gluttonie, and ſuch lyke, where<g ref="char:EOLhyphen"/>of I tell you before, as I alſo haue tolde you be<g ref="char:EOLhyphen"/>fore,
+<pb facs="tcp:9684:41"/>
+that they which do ſuch thinges, ſhall not in<g ref="char:EOLhyphen"/>herite the kingdome of God.</p>
+               <p>Many will ſay to me in that day, Lord, Lord,<note place="margin">Math. 7, 23.</note> haue not wee by thy name prophecied? and by thy name caſt out deuyls? and by thy name done many great workes?</p>
+               <p>Then ſhall ye begin to ſay,<note place="margin">Luk. 13, 26.27.</note> We haue eaten and dronken in thy preſence, and thou haſt taught vs in our ſtreetes.</p>
+               <p>But he ſhall ſay, I tell you, I knowe you not whence ye are: Depart from mee all ye workers of iniquitie.</p>
+               <p>Away from mee all ye workers of iniquitie:<note place="margin">Pſal. 6, 8.</note> for the Lord hath heard the voyce of my weeping.</p>
+               <p>Then ſhall he ſay vnto them on the left hand,<note place="margin">Math. 25, 41</note> Depart from mee ye curſed, into euerlaſting fire, which is prepared for the deuyll and his angels.</p>
+            </div>
+            <div type="part">
+               <head>EXHORTATION.</head>
+               <p>
+                  <hi>THE</hi> nyght is paſt, and the day is at hand:<note place="margin">Rom. 13, 12.</note> let vs therefore caſt away the workes of darkneſſe, and let vs put on the armour of light.</p>
+               <p>And haue no felowſhyp with the vnfruitfull workes of darknes, but euen reproue them rather.<note place="margin">Ephe. 5, 11.</note>
+               </p>
+               <p>The grace of God,<note place="margin">Tit. 2, 11, 12</note> that bringeth ſaluation vnto all men, hath appeared,</p>
+               <p>And teacheth vs, that we ſhould denie vngodlines, and worldly luſtes; and that we ſhould lyue ſoberly and righteouſly, in this preſent worlde.</p>
+               <p>Walke in the ſpirit,<note place="margin">Gall. 5, 16.</note> and ye ſhall not fulfill the luſtes of
+<pb facs="tcp:9684:42"/>
+the fleſh.</p>
+               <p>
+                  <note place="margin">Gal. 5, 22, 23 24, 25.</note>The fruites of the ſpirit is loue, ioy, peace, long ſuffe<g ref="char:EOLhyphen"/>ring, gentleneſſe, goodneſſe, fayth, meekeneſſe, tem<g ref="char:EOLhyphen"/>perancie: againſt ſuch there is no law.</p>
+               <p>For they that are Chriſtes, haue crucified the flesh with the affections.</p>
+               <p>If we lyue in the ſpirit, let vs alſo walke in the ſpirit.</p>
+               <p>
+                  <note place="margin">Math. 7, 13.</note>Enter in at the ſtraight gate: for it is the wyde gate, and brode way that leadeth to deſtruction: and many there be which goe in thereat.</p>
+               <p>
+                  <note place="margin">Luk. 13, 24.</note>Striue to enter in at the ſtraight gate: for many, I ſay; vnto you, will ſeeke to enter in, and shall not be able.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:9684:42"/>
+            <head>A GODLY PRAYER AND CONFESSION OF our Sinnes vnto God.</head>
+            <p>
+               <seg rend="decorInit">O</seg> MOST merciful Lord God, and my tender and deare Fa<g ref="char:EOLhyphen"/>ther, vouchſafe I hartely be<g ref="char:EOLhyphen"/>ſeech thee, to looke downe with thy fatherly eyes of pit<g ref="char:EOLhyphen"/>tie vpon mee a moſt vile and wretched ſinner, which lie heere proſtrate in hart before the feate of thy bottomleſſe mercie: for I confeſſe I haue moſt greeuouſly ſinned againſt the throne of thy glory, and before thee (O Father) in ſo much as I am no more worthy to be called thy ſonne: neuertheleſſe, foraſmuch as thou art the God and Father of all comfort, and deſireſt not the death of a ſinner, but like a true Samaritan takeſt thought for my ſeely wounded ſoule: Make mee, I pray thee, by infunding thy precious oyle of comfort into my woundes; ioyfully to runne with the loſt Sonne, vnto the lappe of thine euerlaſting pittie: For loe, thou art my hope and truſt, in whom I onely repoſe my ſelfe, hauing in thee full confi<g ref="char:EOLhyphen"/>dence, and ſtedfaſt fayth: and ſo I ſay, with a very true and faythfull hart, truſting only in thy mercie.
+<pb facs="tcp:9684:43"/>
+I beleeue in thee O God the Father, in thee O God the Sonne, and in thee O God the holy Ghoſt; three perſons, and one true, and alſo very God; beſides whom, I acknowledge none other God in heauen aboue, nor in the earth beneath: yea, and I poore miſerable ſinner doe accuſe my ſelfe vnto thee deare Father, that I haue ſore and greeuoſly offended thy Almighty goodneſſe and maieſtie, in the committing of mine abundant and manifolde ſinnes and wretchedneſſe, which exceede the num<g ref="char:EOLhyphen"/>ber of the Sandes in the Sea, and haue not kept the leaſt of thy moſt godly and bleſſed commaunde<g ref="char:EOLhyphen"/>mentes, lyke as thy righteouſnes may require and demaunde the ſame of me: which if thou (Lord) ſhouldeſt ſo require, there were no helpe or hope in me, but that I muſt needes peryſh and be dam<g ref="char:EOLhyphen"/>ned for euer. I confeſſe alſo, that I haue not ho<g ref="char:EOLhyphen"/>noured thee lyke my God, nor dread thee lyke my Lord; loued thee lyke my Father, nor truſted in thee lyke my creator and Sauiour. Thy holy and dreadfull name (vnto whom all honour &amp; glory of duetie belongeth) haue I vſed in vayne: I haue not ſanctified the holy dayes with works which be ac<g ref="char:EOLhyphen"/>ceptable vnto thee, nor in inſtructing my neigh<g ref="char:EOLhyphen"/>bour in vertue accordingly. I haue not honoured my Parentes, nor been obedient vnto them. The high powers &amp; rulers (which take their authority of thee) I haue not been willingly obedient vnto. I haue not kept myne hart pure and cleane from man ſlaughter, theft, adulterie, enuie, malice, hatred, diſdaynefulnes, pride, couetouſnes, drunkennes,
+<pb facs="tcp:9684:43"/>
+gluttonie, wantonneſſe, backbyting, ſlaunder, falſehood, and falſe-witnes bearyng: but haue in my hart and minde wyſhed and deſired my neigh<g ref="char:EOLhyphen"/>bours goodes and thinges. I haue folowed the great Prince of this worlde Satan (which hath been a lyar euen from the beginnyng) in concupi<g ref="char:EOLhyphen"/>ſence of the fleſh, in deceitfulneſſe, in all kinde of euyll and wicked lyuing, in thought, worde, and deede, in diſpayre, and alſo mysbeliefe: But in what manner ſoeuer that I haue offended, and ſin<g ref="char:EOLhyphen"/>ned agaynſt thy eternall Maieſtie (for no man knoweth throughly his ſinnes, as the prophet witneſſeth) whether it hath been by day or els by nyght; yea, euen from my chyldhood vnto this day, were it in wordes, workes, or thoughtes, ſecretly or openly; O moſt mercifull God, and heauenly Father, I am moſt ſorie for it, euen from the bottom of my hart: yea, and my ſoule mour<g ref="char:EOLhyphen"/>neth for very ſorow within me (O moſt mercifull Father) that I am not a thouſande tymes more ſo<g ref="char:EOLhyphen"/>ryer then I am: Howbeit, in token of my great and vnfeigned repentance (though all hartes be knowen well ynough vnto thee) I do cry and call vnto thee for refuge in the bitterneſſe of my hart and ſoule, Lord God and Father, haue mercie: Lord God and Sonne, haue mercie: and Lord God holy Ghoſt, haue mercie. Spare mee, good Lord, of thine infinite mercie, both now and all the dayes of my life; and graunt mee of thine aboundant grace, ſo as I may change my ſinfull life, and put off the olde man with all his euyll
+<pb facs="tcp:9684:44"/>
+concupiſence, and deceiueable luſtes; and that I may die vnto the worlde, and ſo goe foorth in a new life. Strengthen thou mee, O Lord, I hum<g ref="char:EOLhyphen"/>blie beſeech thee, in a true, humble, lowlie, and perfect hart, faythfully to loue, hope, and truſt in thee. Giue my ſoule (moſt heauenly Father) the grace of thy holy ſpirit, to deſire thee onely, in thee onely to reioyce, and repoſe my ſelfe: and that I may vtterly renounce and forſake the vanities and vaine affiance and delightes of this worlde, ſo that thou mayeſt finde mee readie with the good Seruant in the midnight of my death, which ſhall ſodaynely ſteale vpon mee like a theefe eare I be aware: Bee thou vnto mee at that time of neede (O Lord) a Tower of ſtrength, a Pallace of refuge, and a defencible God; namely againſt the face of the feende, who like a roring Lyon, wilbe then moſt readie to deuoure me: and againſt de<g ref="char:EOLhyphen"/>ſperation, which then wilbe buſie to grieue and aſſayle mee. Graunt mee moſt mercifull Sauiour, that when death ſhall ſhut vp the eyes of this my mortall body, yet that the eyes of my ſoule may ſtill beholde and looke vpon thee with a liuely and perfect fayth; that when death hath taken away the vſe of my tongue and outward ſenſes, yet that my hart and ſoule may cry and ſay, vnto thee, O Lord into thy handes I giue and commit my ſoule. Lord Ieſu receiue my ſpirit vnto thee: Fetch then againe, Lord God the Father, I hum<g ref="char:EOLhyphen"/>blie beſeech thee, that which thy wiſedome and puiſſant might hath ſhapen and faſhioned: Fetch
+<pb facs="tcp:9684:44"/>
+then againe, Lord God the Sonne, that which thou haſt ſo wiſely and carefully gouerned, and bought with the deare price of thy moſt precious blood: Take then againe, thou Lord God holy Ghoſt, that which thou haſt kept and preſerued ſo lo<g ref="char:EOLhyphen"/>uingly in this region of ſinne, and vale of miſerie: Vnto whom (as of right and duetie belongeth) be all honour, power, prayſe, and glory, for euer and euer, worlde without ende. Amen.</p>
+            <epigraph>
+               <q>Deſpiſe not a man that turneth himſelfe away from ſinne, nor caſt him not in the teeth withall: but remember that we are all worthy blame. <bibl>
+                     <hi>Ecclus. 8.5.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Imprinted at London by <hi>William White.</hi> 1598.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
